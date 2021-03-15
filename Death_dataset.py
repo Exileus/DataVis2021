@@ -8,7 +8,6 @@ Created on Tue Mar  9 16:31:22 2021
 import pandas as pd
 import requests
 import io
-import matplotlib.pyplot as plt
 
 
 # Download the data.
@@ -20,20 +19,16 @@ download = requests.get(url).content
 
 df = pd.read_csv(io.StringIO(download.decode('utf-8')))
 
-# Printing out the first 5 rows of the dataframe
-
-print (df.head())
-
-
 #%%
+
+# Df with new daily cases.
+df1 = df.drop(columns=["Lat","Long"]).rename(columns={"Country/Region":"Country"}).groupby("Country").mean()
+df1
 
 # Make a new df with the rate of change to the previous days.
 df_percentage = df.copy()
 df_percentage.iloc[:,4:] = df.iloc[:,4:].pct_change(fill_method=None,axis="columns")
 
 
-# Output the file to the present folder. Replace whatever previous version there was.
-
-### Code here.
 
 df_percentage.iloc[210].loc["3/25/20":].plot()
