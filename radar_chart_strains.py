@@ -80,7 +80,7 @@ fig.show()
 fig = go.Figure(data=
     go.Parcoords(
         name = "one",
-        line = dict(color = np.linspace(0,1,5),colorscale="electric"),
+        line = dict(color = np.linspace(0,1,5),colorscale="rainbow."),
         dimensions = list([
             dict(range = [-1,1],
                  tickvals=[-1,0,1],
