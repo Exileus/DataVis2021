@@ -14,88 +14,12 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="poster_postCrash.svg"
+   sodipodi:docname="poster_Exi.svg"
    inkscape:export-filename="/home/fsx/nova/Spring 2021/DV/DataVis2021/poster_gray_iter3.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
-    <marker
-       style="overflow:visible"
-       id="StopS"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0.0,5.65 L 0.0,-5.65"
-         id="path2965" />
-    </marker>
-    <marker
-       inkscape:stockid="DistanceStart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="DistanceStart"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <g
-         id="g2300"
-         style="stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1">
-        <path
-           id="path2306"
-           d="M 0,0 L 2,0"
-           style="fill:#ffffff;stroke:#000000;stroke-width:1.15;stroke-linecap:square;stroke-opacity:1;fill-opacity:1" />
-        <path
-           id="path2302"
-           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
-           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;fill-opacity:1" />
-        <path
-           id="path2304"
-           d="M 0,-4 L 0,40"
-           style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-opacity:1;fill-opacity:1" />
-      </g>
-    </marker>
-    <marker
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="InfiniteLineEnd"
-       inkscape:stockid="InfiniteLineEnd"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <g
-         style="fill:#ffffff;stroke:#000000;stroke-opacity:1;fill-opacity:1"
-         id="g3031">
-        <circle
-           cx="3"
-           cy="0"
-           r="0.8"
-           id="circle3025"
-           style="stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
-        <circle
-           cx="6.5"
-           cy="0"
-           r="0.8"
-           id="circle3027"
-           style="stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
-        <circle
-           cx="10"
-           cy="0"
-           r="0.8"
-           id="circle3029"
-           style="stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1" />
-      </g>
-    </marker>
-    <rect
-       x="982.92708"
-       y="297.65625"
-       width="24.60625"
-       height="37.835417"
-       id="rect2104" />
     <rect
        x="888.82049"
        y="362.88305"
@@ -125,7 +49,7 @@
       <path
          transform="scale(0.6) rotate(180) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#e8a180;stroke-opacity:1;fill:#e8a180;fill-opacity:1"
          id="path2419" />
     </marker>
     <marker
@@ -333,266 +257,6 @@
        width="63.637852"
        height="74.087007"
        id="rect16010" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="98.297985"
-       height="80.614984"
-       id="rect14517-8" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="60.131897"
-       height="26.172182"
-       id="rect3496" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666039"
-       id="rect14517-8-6" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="98.297981"
-       height="80.614983"
-       id="rect3597" />
-    <marker
-       style="overflow:visible"
-       id="StopS-3"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path2965-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker3754"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path3752" />
-    </marker>
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect14517-8-6-6" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect4151" />
-    <marker
-       style="overflow:visible"
-       id="StopS-3-9"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path2965-2-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4157"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path4155" />
-    </marker>
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect14517-8-6-1" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect4151-8" />
-    <marker
-       style="overflow:visible"
-       id="StopS-3-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path2965-2-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4157-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path4155-9" />
-    </marker>
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect14517-8-6-0" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect4151-83" />
-    <marker
-       style="overflow:visible"
-       id="StopS-3-6"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path2965-2-08" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4157-1"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path4155-5" />
-    </marker>
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect14517-8-6-06" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="11.488838"
-       height="5.9666038"
-       id="rect4151-5" />
-    <marker
-       style="overflow:visible"
-       id="StopS-3-5"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path2965-2-55" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker4157-5"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path4155-6" />
-    </marker>
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="20.45869"
-       height="10.606214"
-       id="rect14517-8-3" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="98.297981"
-       height="80.614983"
-       id="rect5359" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="9.4669328"
-       height="9.191959"
-       id="rect14517-8-3-3" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="20.458691"
-       height="10.606214"
-       id="rect5512" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="9.4669333"
-       height="9.1919594"
-       id="rect14517-8-3-3-2" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="9.4669333"
-       height="9.1919594"
-       id="rect5558" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="9.4669333"
-       height="9.1919594"
-       id="rect14517-8-3-3-2-6" />
-    <rect
-       x="888.8205"
-       y="362.88306"
-       width="9.4669333"
-       height="9.1919594"
-       id="rect5594" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -602,10 +266,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="2854.467"
-     inkscape:cy="1460.2898"
+     inkscape:cx="2222.5732"
+     inkscape:cy="1703.7456"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g8952"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
@@ -688,14 +352,14 @@
        ry="6.8229151" />
     <text
        xml:space="preserve"
-       style="font-size:35.9833px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#f9f9f9;stroke-width:0.264583"
+       style="font-size:35.9833px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:-1.349375px;word-spacing:0px;opacity:1;fill:#f9f9f9;stroke-width:0.264583"
        x="20.061792"
        y="49.72266"
        id="text17"><tspan
          sodipodi:role="line"
          x="20.061792"
          y="49.72266"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.9833px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium';fill:#f9f9f9;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.9833px;font-family:Leelawadee;-inkscape-font-specification:Leelawadee;fill:#f9f9f9;stroke-width:0.264583;"
          id="tspan21">How are COVID-19 Strains Spreading Around the World?</tspan></text>
   </g>
   <g
@@ -754,53 +418,42 @@
        style="font-size:8.46667px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2646);fill:#000000;"
        transform="translate(0,-75.696133)"><tspan
          x="31.935547"
-         y="187.76797"><tspan
-           style="fill:#000000">Conversations surrounding the </tspan><tspan
-           style="fill:#000000">concern for </tspan></tspan><tspan
+         y="195.18243"><tspan
+           style="font-weight:normal;font-size:16.9333px">C</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">onversations surrounding the concern for </tspan></tspan><tspan
          x="31.935547"
-         y="198.35132"><tspan
-           style="fill:#000000">emerging variants of </tspan><tspan
-           style="fill:#000000">SARS-CoV-2, the </tspan></tspan><tspan
+         y="208.9346"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">emerging variants of SARS-CoV-2, the virus </tspan></tspan><tspan
          x="31.935547"
-         y="208.93466"><tspan
-           style="fill:#000000">virus that causes </tspan><tspan
-           style="fill:#000000">COVID-19, have been </tspan></tspan><tspan
+         y="219.72982"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">that causes COVID-19, have been increasing </tspan></tspan><tspan
          x="31.935547"
-         y="219.518"><tspan
-           style="fill:#000000">increasing </tspan><tspan
-           style="fill:#000000">rampantly since the turn of </tspan></tspan><tspan
-         x="31.935547"
-         y="230.10135"><tspan
-           style="fill:#000000">the </tspan><tspan
-           style="fill:#000000">year. It is the objective of this </tspan></tspan><tspan
-         x="31.935547"
-         y="240.68469"><tspan
-           style="fill:#000000">infographic to explore the </tspan><tspan
-           style="fill:#000000">terminology, </tspan></tspan><tspan
-         x="31.935547"
-         y="251.26803"><tspan
-           style="fill:#000000">understanding, and </tspan><tspan
-           style="fill:#000000">general knowledge of </tspan></tspan><tspan
-         x="31.935547"
-         y="261.85138"><tspan
-           style="fill:#000000">this </tspan><tspan
-           style="fill:#000000">emerging subject, as well as </tspan><tspan
-           style="fill:#000000">track </tspan></tspan><tspan
-         x="31.935547"
-         y="272.43472"><tspan
-           style="fill:#000000">and visualize the global </tspan><tspan
-           style="fill:#000000">growth, spread, </tspan></tspan><tspan
-         x="31.935547"
-         y="283.01806"><tspan
-           style="fill:#000000">and probable </tspan><tspan
-           style="fill:#000000">impact of the three current </tspan></tspan><tspan
-         x="31.935547"
-         y="293.60141"><tspan
-           style="fill:#000000">variants of concern (VOC).
+         y="230.52505"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">rampantly since the turn of the year 2021.
 </tspan></tspan><tspan
          x="31.935547"
-         y="304.18475"><tspan
-           style="fill:#000000">
+         y="241.32028"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"> 
+</tspan></tspan><tspan
+         x="31.935547"
+         y="252.11551"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">This infographic explores the terminology, </tspan></tspan><tspan
+         x="31.935547"
+         y="262.91073"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">understanding, and general knowledge of this </tspan></tspan><tspan
+         x="31.935547"
+         y="273.70596"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">emerging subject, tracking and visualizing the </tspan></tspan><tspan
+         x="31.935547"
+         y="284.50119"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">global growth, spread, and probable impact of </tspan></tspan><tspan
+         x="31.935547"
+         y="295.29641"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">the three current variants of concern (VOC).
+</tspan></tspan><tspan
+         x="31.935547"
+         y="306.09164"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">
 </tspan></tspan></text>
     <rect
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.78355902;stroke:none;stroke-width:3.5335;stroke-linecap:round"
@@ -817,15 +470,7 @@
        transform="translate(0,172.75571)"><tspan
          x="31.935547"
          y="187.76797"><tspan
-           style="fill:#000000">What is the difference between a </tspan><tspan
-           style="fill:#000000">Variant </tspan></tspan><tspan
-         x="31.935547"
-         y="198.35132"><tspan
-           style="fill:#000000">and a Strain of COVID-19?
-</tspan></tspan><tspan
-         x="31.935547"
-         y="208.93466"><tspan
-           style="fill:#000000">Explain Pango Lineage
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">About Mutations, Variants, and Strains
 </tspan></tspan></text>
     <rect
        style="opacity:1;fill:#b3b3b3;fill-opacity:0.783559;stroke:none;stroke-width:1.76889;stroke-linecap:round"
@@ -944,6 +589,16 @@
          x="930.10052"
          y="766.67004"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.264583">explanation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.53333"
+       y="199.49583"
+       id="text1281"><tspan
+         id="tspan1279"
+         x="118.53333"
+         y="199.49583"
+         style="stroke-width:0.264583"></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5759,15 +5414,10 @@
        transform="translate(510.00075,-146.31554)"><tspan
          x="478.48242"
          y="528.24616"><tspan
-           style="font-size:4.93889px;fill:#ffffff">this is an example </tspan><tspan
-           style="font-size:4.93889px;fill:#ffffff">of </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff">this is an example of an </tspan></tspan><tspan
          x="478.48242"
-         y="534.41974"><tspan
-           style="font-size:4.93889px;fill:#ffffff">an explanation </tspan><tspan
-           style="font-size:4.93889px;fill:#ffffff">of </tspan></tspan><tspan
-         x="478.48242"
-         y="540.59333"><tspan
-           style="font-size:4.93889px;fill:#ffffff">Brazil</tspan></tspan></text>
+         y="534.5434"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff">explanation of Brazil</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 853.65708,370.19507 v 15.19251 l 41.20306,0"
@@ -5780,31 +5430,41 @@
        transform="translate(12.331028,12.921634)"><tspan
          x="888.82031"
          y="366.80195"><tspan
-           style="font-size:4.23333px;fill:#ffffff">South Korea has a story </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff">here </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff">South Korea has a story here </tspan></tspan><tspan
          x="888.82031"
-         y="372.09361"><tspan
-           style="font-size:4.23333px;fill:#ffffff">that is very long </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff">and hard </tspan></tspan><tspan
+         y="372.19956"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff">that is very long and hard to </tspan></tspan><tspan
          x="888.82031"
-         y="377.38526"><tspan
-           style="font-size:4.23333px;fill:#ffffff">to explain </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff">without a few </tspan></tspan><tspan
-         x="888.82031"
-         y="382.67692"><tspan
-           style="font-size:4.23333px;fill:#ffffff">words!</tspan></tspan></text>
+         y="377.59718"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff">explain without a few words!</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.03014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 894.88695,402.59515 V 369.82099"
        id="path15485"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:#d1d1d1;fill-opacity:1;stroke:#ffffff;stroke-width:1.27668;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:1.05833;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect15487"
-       width="183.48972"
-       height="107.47402"
-       x="916.92523"
-       y="234.467" />
+       width="106.58134"
+       height="127.1496"
+       x="922.2757"
+       y="212.71004" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="938.16937"
+       y="274.41501"
+       id="text15491"><tspan
+         sodipodi:role="line"
+         id="tspan15489"
+         x="938.16937"
+         y="274.41501"
+         style="stroke-width:0.264583">legend</tspan><tspan
+         sodipodi:role="line"
+         x="938.16937"
+         y="295.58163"
+         style="stroke-width:0.264583"
+         id="tspan15493">box</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:77.6153;stroke-width:0.264583"
@@ -5849,292 +5509,46 @@
        transform="translate(-606.68358,88.952751)"
        x="62.431778"
        y="0"><tspan
-         x="922.81741"
+         x="923.44166"
          y="366.80195"><tspan
-           style="font-weight:bold;text-align:end;text-anchor:end">Manaus, Brazil</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';text-align:end;text-anchor:end;fill:#f2f2f2">Manaus, Brazil</tspan><tspan
            style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">
 </tspan></tspan><tspan
-         x="888.95904"
+         x="895.82786"
          y="372.19956"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">An analysis of blood </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">donors in </tspan></tspan><tspan
-         x="893.19237"
-         y="377.49122"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">Manaus </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">indicated that 76% of </tspan></tspan><tspan
-         x="903.77569"
-         y="382.78288"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">the population had been </tspan></tspan><tspan
-         x="895.30903"
-         y="388.07453"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">infected with SARS-CoV-2 </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">by </tspan></tspan><tspan
-         x="891.0757"
-         y="393.36619"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">October 2020. Yet, in </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">January </tspan></tspan><tspan
-         x="891.0757"
-         y="398.65785"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">2021, Manaus </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">suffered another </tspan></tspan><tspan
-         x="891.0757"
-         y="403.9495"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">outbreak. The new P.1 </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">lineage </tspan></tspan><tspan
-         x="893.19237"
-         y="409.24116"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">is suspected to </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">be better at </tspan></tspan><tspan
-         x="916.47568"
-         y="414.53282"><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">evading </tspan><tspan
-           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">immunity.</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text2102"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect2104);" />
-    <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.64999987;paint-order:markers stroke fill;marker-start:url(#StopS);marker-end:url(#StopS)"
-       d="m 942.37966,247.38541 v 79.83802"
-       id="path2756" />
-    <text
-       xml:space="preserve"
-       id="text14515-3"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8);"
-       transform="translate(104.92141,-114.65588)"><tspan
-         x="888.82031"
-         y="366.80195"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Countries are colored by the most prevalent of the </tspan></tspan><tspan
-         x="888.82031"
-         y="372.19956"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">three Variants of Concern, estimated by the </tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">An analysis of blood donors in </tspan></tspan><tspan
+         x="889.4572"
          y="377.59718"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">distribution of sequenced samples at the date of </tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">Manaus indicated that </tspan><tspan
+           style="font-style:italic">76%</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff"> of the </tspan></tspan><tspan
+         x="897.20039"
          y="382.99479"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">February 8th, 2021. 
-</tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">population had been infected </tspan></tspan><tspan
+         x="898.13263"
          y="388.3924"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">
-</tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">with SARS-CoV-2 by October </tspan></tspan><tspan
+         x="903.6434"
          y="393.79002"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Countries without available data or low amount of </tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">2020. Yet, in January 2021, </tspan></tspan><tspan
+         x="905.66291"
          y="399.18763"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">samples are uncoloured.
-</tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">Manaus suffered another </tspan></tspan><tspan
+         x="892.59085"
          y="404.58524"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">
-</tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">outbreak. The new P.1 lineage is </tspan></tspan><tspan
+         x="889.60809"
          y="409.98286"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">The intensity of the coloring denotes how dominant </tspan></tspan><tspan
-         x="888.82031"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end;fill:#ffffff">suspected to be better at evading </tspan></tspan><tspan
+         x="932.72481"
          y="415.38047"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">the variant was in regards to the collected samples. </tspan></tspan><tspan
-         x="888.82031"
-         y="420.77809"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">As such, countries with a darker color have a higher </tspan></tspan><tspan
-         x="888.82031"
-         y="426.1757"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">proportion of cases causes by a specific strain. </tspan></tspan><tspan
-         x="888.82031"
-         y="431.57331"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Countries with a lighter color represent lower </tspan></tspan><tspan
-         x="888.82031"
-         y="436.97093"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">prevalence of variants of concern.</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text14515-3-6"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6);"
-       transform="matrix(1.2314141,0,0,1.2636206,-165.04112,-154.25667)"><tspan
-         x="888.82031"
-         y="366.80195"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">25%</tspan></tspan></text>
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS-3);marker-end:url(#StopS-3);paint-order:markers stroke fill"
-       d="m 942.35927,307.36513 h -1.90712"
-       id="path2756-4" />
-    <text
-       xml:space="preserve"
-       id="text14515-3-6-2"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-6);"
-       transform="matrix(1.2314141,0,0,1.2636206,-164.97873,-174.35045)"><tspan
-         x="888.82031"
-         y="366.80195"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">50%</tspan></tspan></text>
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS-3-9);marker-end:url(#StopS-3-9);paint-order:markers stroke fill"
-       d="m 942.42166,287.27135 h -1.90712"
-       id="path2756-4-3" />
-    <text
-       xml:space="preserve"
-       id="text14515-3-6-6"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-1);"
-       transform="matrix(1.2314141,0,0,1.2636206,-164.91258,-193.86346)"><tspan
-         x="888.82031"
-         y="366.80195"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">75%</tspan></tspan></text>
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS-3-4);marker-end:url(#StopS-3-4);paint-order:markers stroke fill"
-       d="m 942.48781,267.75834 h -1.90712"
-       id="path2756-4-31" />
-    <text
-       xml:space="preserve"
-       id="text14515-3-6-48"
-       style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-06);"
-       transform="matrix(1.2314141,0,0,1.2636206,-164.97873,-134.33221)" />
-    <text
-       xml:space="preserve"
-       id="text14515-3-1"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3);"
-       transform="matrix(0.88782548,0,0,0.89781026,133.62747,-79.254313)"
-       x="38.423176"
-       y="0"><tspan
-         x="891.8901"
-         y="366.14877"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0.39118248 -0.39118302 0 0.39118379"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end">Proportion of </tspan></tspan><tspan
-         x="893.23877"
-         y="370.64678"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end">Sequences</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text14515-3-1-2"
-       style="font-size:4.74162px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3);"
-       transform="matrix(1.3065163,0,0,1.2043932,-200.99616,-109.97552)"
-       x="38.423176"
-       y="0"><tspan
-         x="888.82031"
-         y="367.27252"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74162px;font-family:Arial;-inkscape-font-specification:Arial">UK</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text14515-3-1-2-8"
-       style="font-size:4.74162px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3-2);"
-       transform="matrix(1.3065163,0,0,1.2043932,-186.19288,-109.97552)"
-       x="38.423176"
-       y="0"><tspan
-         x="888.82031"
-         y="367.27252"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">ZA</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text14515-3-1-2-8-6"
-       style="font-size:4.74162px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3-2-6);"
-       transform="matrix(1.3065163,0,0,1.2043932,-214.5033,-109.97552)"
-       x="38.423176"
-       y="0"><tspan
-         x="888.82031"
-         y="367.27252"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">BR</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">immunity</tspan><tspan
+           style="font-size:4.23333px;text-align:end;text-anchor:end;fill:#ffffff">.</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="UK">
-    <rect
-       style="opacity:1;fill:#db644c;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110"
-       width="12.170834"
-       height="20.108332"
-       x="944.5625"
-       y="307.18124"
-       ry="0" />
-    <rect
-       style="fill:#a63d28;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-1"
-       width="12.170834"
-       height="20.108332"
-       x="944.5625"
-       y="267.31738"
-       ry="0" />
-    <rect
-       style="fill:#c35944;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-6"
-       width="12.170834"
-       height="20.108332"
-       x="944.5625"
-       y="287.24933"
-       ry="0" />
-    <rect
-       style="fill:#802f1f;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-5"
-       width="12.170834"
-       height="20.108332"
-       x="944.5625"
-       y="247.38544"
-       ry="0" />
-    <rect
-       style="fill:#3996c2;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-2"
-       width="12.170834"
-       height="20.108332"
-       x="958.58539"
-       y="307.18124"
-       ry="0" />
-    <rect
-       style="fill:#1b6a8f;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-1-3"
-       width="12.170834"
-       height="20.108332"
-       x="958.58539"
-       y="267.31735"
-       ry="0" />
-    <rect
-       style="fill:#3183a8;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-6-1"
-       width="12.170834"
-       height="20.108332"
-       x="958.58539"
-       y="287.24933"
-       ry="0" />
-    <rect
-       style="fill:#165775;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-5-4"
-       width="12.170834"
-       height="20.108332"
-       x="958.58539"
-       y="247.38544"
-       ry="0" />
-    <rect
-       style="fill:#c1d960;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-2-1"
-       width="12.170834"
-       height="20.108332"
-       x="972.87292"
-       y="307.18124"
-       ry="0" />
-    <rect
-       style="fill:#91a63a;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-1-3-2"
-       width="12.170834"
-       height="20.108332"
-       x="972.87292"
-       y="267.31735"
-       ry="0" />
-    <rect
-       style="fill:#aabf55;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-6-1-1"
-       width="12.170834"
-       height="20.108332"
-       x="972.87292"
-       y="287.24933"
-       ry="0" />
-    <rect
-       style="fill:#7a8c30;fill-opacity:1;stroke-width:0.0904415"
-       id="rect2110-5-4-0"
-       width="12.170834"
-       height="20.108332"
-       x="972.87292"
-       y="247.38544"
-       ry="0" />
-  </g>
+     inkscape:label="UK" />
   <script
      id="mesh_polyfill"
      type="text/javascript">
