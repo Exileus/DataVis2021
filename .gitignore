@@ -1,2 +1,18 @@
 
 .ipynb_checkpoints/
+
+*.json
+
+*.fasta
+
+dataset/ncov_africa/readme.txt
+
+dataset/ncov_asia/readme.txt
+
+dataset/ncov_europe/readme.txt
+
+dataset/ncov_north-america/readme.txt
+
+dataset/ncov_oceania/readme.txt
+
+dataset/ncov_south-america/readme.txt
