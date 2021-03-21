@@ -1,0 +1,30 @@
+
+
+BR: 
+Brazillian Variant
+Pango Lineage: P1
+Nextstrain Name: 20J / 501Y.V3
+
+Date of first report:  15th December, 2020
+
+Although it shares some of the key mutations that define the other two variants of concern as being more transmissible and possibly more resistant against certain treatments or vaccinations, empirical evidence is still being gathered in regards to its impact. 
+
+
+UK:
+Pango Lineage: B.1.1.7
+Nextstrain Name: 20I / 501Y.V1
+
+Date of first report: 20th September, 2020
+
+The first identified Variant of Concern, it was announced on the 14th December 2020, having initally expanded in the South East of the country. Evidence exists of 50% increased transmission, as well as an increase of fatality rates. However, it does not seem to have significantly increased resistance to vaccination or current medical treatments.
+
+
+
+South Africa: 
+Pango Lineage: B.1.351
+Nextstrain Name: 20H / 501.V2
+
+Date of first report: 8th October, 2020
+
+The second identified Variant of Concern, it was announced in December 2020.
+There is evidence of increased transmission (50%), as well as of reduced efficacy of specific medical treatments, such as convalescent plasma. It does not seem to cause more severe or fatal disease.
