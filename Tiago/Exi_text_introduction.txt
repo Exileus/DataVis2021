@@ -1,0 +1,13 @@
+Confusion regarding these terms is commonplace. 
+
+The genetic material of SARS-CoV-2 is called ribonucleic acid (RNA). Instructions for the virus to replicate are encoded in 30,000 “letters” of RNA — a, c, g and u — which the infected cell reads and translates into many kinds of virus proteins. 
+
+(insert image of the genome here)
+
+Small errors originate in the process of duplicating RNA, generating a non-exact copy of the sequence. These are the so-called mutations, characterized by the different letters in the sequence. Despite this, viruses with mutations can still retain the parent's properties and behave exactly like the original virus - these are called silent mutations.
+
+As time passes, the genome for the virus acquires many documented mutations. Some such mutations significantly alter the virus' properties or behavior, originating a new strain of the virus. Some of these altered properties may translate to higher transmissability, altered resistance to medical treatment, or even an increased severity of the disease. This has been the case with some recently detected strains (named Variants of Concern).
+
+(insert small table with differences between mutation, variant, strain).
+
+Because of these threats, sequencing, closely monitoring, and documenting these mutations is paramount to combat the ongoing pandemic, including preparing and containing potentially dangerous strains. 
