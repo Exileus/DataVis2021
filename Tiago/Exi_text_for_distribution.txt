@@ -1,0 +1,10 @@
+
+19A/19B
+The initial strains mutated quickly, giving way to the more stable and dominant 20A and 20B strains which  accounted for about of 60% of all collected sequences in 2020. This is aligned of the observation of slower rate of mutation of the SARS-CoV2 virus when compared to other flu-like virus. 
+
+20s
+The virus remained relatively stable during 2020, with no new major variants being detected. Moreover, they did not significantly alter key characteristics of the disease such as vaccine immunity, transmissability, or lethality. 
+
+
+UK - dist
+After being first detected, the UK strain spread unlike any other so far. By March 1st, sequences of the UK variant accounted for an estimed 44% of active cases, signalling an extreme growth not characteristic of the virus' pattern of stable and slow mutation. 
