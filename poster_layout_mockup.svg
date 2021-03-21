@@ -20,6 +20,18 @@
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <rect
+       x="511.8092"
+       y="464.0456"
+       width="98.605216"
+       height="108.46573"
+       id="rect2205" />
+    <rect
+       x="508.52237"
+       y="457.47191"
+       width="113.94381"
+       height="116.50022"
+       id="rect2199" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient83765">
@@ -2933,6 +2945,82 @@
        width="271.71559"
        height="17.069522"
        id="rect2147" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3705">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3695" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3697" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur3699" />
+      <feOffset
+         dx="0"
+         dy="3"
+         result="offset"
+         id="feOffset3701" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3703" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter3754">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3744" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3746" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur3748" />
+      <feOffset
+         dx="0"
+         dy="3"
+         result="offset"
+         id="feOffset3750" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite3752" />
+    </filter>
+    <rect
+       x="888.8205"
+       y="362.88306"
+       width="83.077599"
+       height="70.411743"
+       id="rect16010-3" />
+    <rect
+       x="888.8205"
+       y="362.88306"
+       width="83.077599"
+       height="70.411743"
+       id="rect3765" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2942,10 +3030,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.22627418"
-     inkscape:cx="2288.2739"
-     inkscape:cy="1685.5634"
+     inkscape:cx="2714.8018"
+     inkscape:cy="1722.8218"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
@@ -2966,9 +3054,9 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      inkscape:pagecheckerboard="false"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-global="true"
      showguides="false" />
   <metadata
@@ -3005,7 +3093,7 @@
          style="fill:#ffffff;stroke-width:0.264583" /></text>
     <g
        id="g81235"
-       transform="translate(-193.55913,343.84399)">
+       transform="translate(-45.651345,357.72179)">
       <rect
          style="fill:#d1d1d1;fill-opacity:1;stroke:#ffffff;stroke-width:1.27668;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect15487-7"
@@ -5643,11 +5731,6 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="Overlays"
-     style="display:inline" />
-  <g
-     inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title">
     <rect
@@ -5678,7 +5761,7 @@
        style="opacity:1;fill:#de5353;fill-opacity:0;stroke:none;stroke-width:2.11667;stroke-linecap:round"
        sodipodi:type="inkscape:offset"
        inkscape:radius="-7.0853744"
-       inkscape:original="M 512.5625 460.94922 C 510.06899 460.94922 508.06055 462.95767 508.06055 465.45117 L 508.06055 572.65625 C 508.06055 575.14976 510.06899 577.15625 512.5625 577.15625 L 609.82812 577.15625 C 612.32163 577.15625 614.32812 575.14976 614.32812 572.65625 L 614.32812 465.45117 C 614.32812 462.95767 612.32163 460.94922 609.82812 460.94922 L 512.5625 460.94922 z "
+       inkscape:original="M 512.5625 460.94922 C 510.06899 460.94922 508.06055 462.95767 508.06055 465.45117 L 508.06055 542.70898 C 508.06055 545.20249 510.06899 547.21094 512.5625 547.21094 L 609.82812 547.21094 C 612.32163 547.21094 614.32812 545.20249 614.32812 542.70898 L 614.32812 465.45117 C 614.32812 462.95767 612.32163 460.94922 609.82812 460.94922 L 512.5625 460.94922 z "
        xlink:href="#rect3246"
        id="path7983"
        inkscape:href="#rect3246"
@@ -7513,48 +7596,16 @@
        style="fill:#c35944;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
        id="rect3246"
        width="124.93759"
-       height="136.62352"
+       height="101.4155"
        x="427.79361"
        y="529.96124"
        ry="5.2916665"
        transform="matrix(0.85056653,0,0,0.85056653,144.19418,10.182103)" />
-    <rect
-       style="fill:#a9c323;fill-opacity:1;stroke:none;stroke-width:1.80036;stroke-linecap:round"
-       id="rect4241"
-       width="83.213531"
-       height="52.824955"
-       x="734.28241"
-       y="483.10135"
-       ry="4.5009141" />
-    <rect
-       style="fill:#1d7097;fill-opacity:1;stroke:none;stroke-width:1.80036;stroke-linecap:round"
-       id="rect4262"
-       width="83.213531"
-       height="52.824955"
-       x="528.26459"
-       y="184.17778"
-       ry="4.5009141" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.31385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 999.53465,256.17559 v 18.86059 h 51.15115"
        id="path14507"
        sodipodi:nodetypes="ccc" />
-    <text
-       xml:space="preserve"
-       id="text14515"
-       style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:4.23333px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect14517);white-space:pre;word-spacing:0px;"
-       transform="matrix(1.2414404,0,0,1.2414404,-44.921502,-188.01503)"><tspan
-         x="888.82031"
-         y="366.78964"><tspan
-           style="font-size:4.23333px;fill:#ffffff">South Korea has a story </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff">here that </tspan></tspan><tspan
-         x="888.82031"
-         y="372.08129"><tspan
-           style="font-size:4.23333px;fill:#ffffff">is very long </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff">and hard to explain </tspan></tspan><tspan
-         x="888.82031"
-         y="377.37295"><tspan
-           style="font-size:4.23333px;fill:#ffffff">without a few words!</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.27886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1050.7191,296.39835 V 255.71119"
@@ -7562,34 +7613,55 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:4.23333px;inline-size:77.6153;letter-spacing:0px;line-height:1.25;stroke-width:0.264583;white-space:pre;word-spacing:0px"
+       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
        x="459.3602"
        y="523.22589"
        id="text15998"
-       transform="matrix(1.2414404,0,0,1.2414404,-57.908434,-177.0225)"><tspan
+       transform="matrix(1.2414404,0,0,1.2414404,-56.320933,-178.61001)"><tspan
          x="459.3602"
          y="523.22589"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">Pango Lineage</tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">: P.1 
+           style="font-weight:bold">BRAZILIAN VARIANT
 </tspan></tspan><tspan
          x="459.3602"
-         y="528.5176"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">(</tspan><tspan
-           style="font-weight:bold;fill:#ffffff">Brazilian Variant</tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">)
+         y="528.19885"><tspan
+           style="font-size:3.97835px;fill:#ffffff">
 </tspan></tspan><tspan
          x="459.3602"
-         y="533.80929"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">
+         y="533.17181"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">: P.1
 </tspan></tspan><tspan
          x="459.3602"
-         y="539.10098"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Place of Origin: Brazil
+         y="538.14478"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">: 20J / 501Y.V3
 </tspan></tspan><tspan
          x="459.3602"
-         y="544.39266"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">
-</tspan></tspan></text>
+         y="543.11774"><tspan
+           style="font-size:3.97835px;fill:#ffffff">Date of First Report:  15th December, 2020
+</tspan></tspan><tspan
+         x="459.3602"
+         y="548.0907"><tspan
+           style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+         x="459.3602"
+         y="553.06366"><tspan
+           style="font-size:3.97835px;fill:#ffffff">Although it shares some of the key mutations </tspan></tspan><tspan
+         x="459.3602"
+         y="558.03662"><tspan
+           style="font-size:3.97835px;fill:#ffffff">that define the other two variants of concern </tspan></tspan><tspan
+         x="459.3602"
+         y="563.00958"><tspan
+           style="font-size:3.97835px;fill:#ffffff">as being more transmissible and possibly </tspan></tspan><tspan
+         x="459.3602"
+         y="567.98254"><tspan
+           style="font-size:3.97835px;fill:#ffffff">more resistant against certain treatments or </tspan></tspan><tspan
+         x="459.3602"
+         y="572.95551"><tspan
+           style="font-size:3.97835px;fill:#ffffff">vaccinations, empirical evidence is still being </tspan></tspan><tspan
+         x="459.3602"
+         y="577.92847"><tspan
+           style="font-size:3.97835px;fill:#ffffff">gathered in regards to its impact. </tspan></tspan></text>
     <g
        id="g14412"
        transform="matrix(1.2414404,0,0,1.2414404,-60.229738,-15.992166)">
@@ -7642,15 +7714,6 @@
        d="m 779.0108,434.71186 v -25.8245 h 51.15114"
        id="path16170"
        sodipodi:nodetypes="ccc" />
-    <text
-       xml:space="preserve"
-       id="text16174"
-       style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:4.23333px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect16178);white-space:pre;word-spacing:0px;"
-       transform="matrix(1.2414404,0,0,1.2414404,-265.44535,-47.785018)"><tspan
-         x="888.82031"
-         y="366.78964"><tspan
-           style="font-size:4.23333px;fill:#ffffff">Something about </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff">Madagascar</tspan></tspan></text>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.27886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 830.19523,429.40213 V 388.71497"
@@ -7658,75 +7721,195 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:4.23333px;inline-size:61.0881;letter-spacing:0px;line-height:1.25;stroke-width:0.264583;white-space:pre;word-spacing:0px"
-       x="459.3602"
-       y="523.22589"
-       id="text13174"
-       transform="matrix(1.2414404,0,0,1.2414404,-37.630681,-455.29697)"><tspan
-         x="459.3602"
-         y="523.22589"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">Pango Lineage</tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">: B.1.1.7 
-</tspan></tspan><tspan
-         x="459.3602"
-         y="528.5176"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">(</tspan><tspan
-           style="font-weight:bold;fill:#ffffff">U.K. Variant</tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">)
-</tspan></tspan><tspan
-         x="459.3602"
-         y="533.80929"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="539.10098"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Place of Origin: Brazil
-</tspan></tspan><tspan
-         x="459.3602"
-         y="544.39266"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">
-</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="-inkscape-font-specification:SF Pro Display;fill:#ffffff;font-family:SF Pro Display;font-size:4.23333px;inline-size:61.088;letter-spacing:0px;line-height:1.25;stroke-width:0.264583;white-space:pre;word-spacing:0px"
-       x="459.3602"
-       y="523.22589"
-       id="text13174-3"
-       transform="matrix(1.2414404,0,0,1.2414404,168.38712,-157.931)"><tspan
-         x="459.3602"
-         y="523.22589"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">Pango Lineage</tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">: B.1.351
-</tspan></tspan><tspan
-         x="459.3602"
-         y="528.5176"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">(</tspan><tspan
-           style="font-weight:bold;fill:#ffffff">South African</tspan><tspan
-           style="font-weight:bold;fill:#ffffff"> Variant</tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">)
-</tspan></tspan><tspan
-         x="459.3602"
-         y="533.80929"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="539.10098"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Place of Origin: South </tspan><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Africa
-</tspan></tspan><tspan
-         x="459.3602"
-         y="544.39266"><tspan
-           style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">
-</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        id="text13273"
        style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:16.93333333px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect13275);white-space:pre;word-spacing:0px;" />
+    <text
+       xml:space="preserve"
+       id="text2197"
+       style="font-family:'SF Pro Display';font-size:4.58611128px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'SF Pro Display Light';font-weight:300;white-space:pre;shape-inside:url(#rect2199);text-align:justify" />
+    <rect
+       style="fill:#a9c323;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
+       id="rect2209"
+       width="124.93759"
+       height="107.85594"
+       x="427.79361"
+       y="529.96124"
+       ry="5.2916665"
+       transform="matrix(0.85056653,0,0,0.85056653,377.19463,17.851385)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
+       x="459.3602"
+       y="523.22589"
+       id="text2231"
+       transform="matrix(1.2414404,0,0,1.2414404,176.67951,-170.94073)"><tspan
+         x="459.3602"
+         y="523.22589"><tspan
+           style="font-weight:bold">SOUTH AFRICAN VARIANT
+</tspan></tspan><tspan
+         x="459.3602"
+         y="528.19885"><tspan
+           style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+         x="459.3602"
+         y="533.17181"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">: B.1.351
+</tspan></tspan><tspan
+         x="459.3602"
+         y="538.14478"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">: 20H / 501.V2
+</tspan></tspan><tspan
+         x="459.3602"
+         y="543.11774"><tspan
+           style="font-size:3.97835px;fill:#ffffff">Date of First Report:  8th October, 2020
+</tspan></tspan><tspan
+         x="459.3602"
+         y="548.0907"><tspan
+           style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+         x="459.3602"
+         y="553.06366"><tspan
+           style="font-size:3.97835px;fill:#ffffff">The second identified Variant of Concern, it </tspan></tspan><tspan
+         x="459.3602"
+         y="558.03662"><tspan
+           style="font-size:3.97835px;fill:#ffffff">was announced in December 2020.There is </tspan></tspan><tspan
+         x="459.3602"
+         y="563.00958"><tspan
+           style="font-size:3.97835px;fill:#ffffff">evidence of increased transmission (50%), as </tspan></tspan><tspan
+         x="459.3602"
+         y="567.98254"><tspan
+           style="font-size:3.97835px;fill:#ffffff">well as of reduced efficacy of specific </tspan></tspan><tspan
+         x="459.3602"
+         y="572.95551"><tspan
+           style="font-size:3.97835px;fill:#ffffff">medical treatments, such as convalescent </tspan></tspan><tspan
+         x="459.3602"
+         y="577.92847"><tspan
+           style="font-size:3.97835px;fill:#ffffff">plasma. It does not seem to cause more </tspan></tspan><tspan
+         x="459.3602"
+         y="582.90143"><tspan
+           style="font-size:3.97835px;fill:#ffffff">severe or fatal disease.</tspan></tspan></text>
+    <rect
+       style="fill:#1d7097;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
+       id="rect3163"
+       width="124.93759"
+       height="115.74976"
+       x="427.79361"
+       y="529.96124"
+       ry="5.2916665"
+       transform="matrix(0.85056653,0,0,0.85056653,140.64809,-271.37577)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
+       x="459.3602"
+       y="523.22589"
+       id="text3175"
+       transform="matrix(1.2414404,0,0,1.2414404,-59.867031,-460.16789)"><tspan
+         x="459.3602"
+         y="523.22589"><tspan
+           style="font-weight:bold">UNITED KINGDOM VARIANT
+</tspan></tspan><tspan
+         x="459.3602"
+         y="528.19885"><tspan
+           style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+         x="459.3602"
+         y="533.17181"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">: B.1.1.7
+</tspan></tspan><tspan
+         x="459.3602"
+         y="538.14478"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">: 20I / 501Y.V1
+</tspan></tspan><tspan
+         x="459.3602"
+         y="543.11774"><tspan
+           style="font-size:3.97835px;fill:#ffffff">Date of First Report:  20th September, 2020
+</tspan></tspan><tspan
+         x="459.3602"
+         y="548.0907"><tspan
+           style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+         x="459.3602"
+         y="553.06366"><tspan
+           style="font-size:3.97835px;fill:#ffffff">The first identified Variant of Concern, it was </tspan></tspan><tspan
+         x="459.3602"
+         y="558.03662"><tspan
+           style="font-size:3.97835px;fill:#ffffff">announced on the 14th December 2020, </tspan></tspan><tspan
+         x="459.3602"
+         y="563.00958"><tspan
+           style="font-size:3.97835px;fill:#ffffff">having initally expanded in the South East of </tspan></tspan><tspan
+         x="459.3602"
+         y="567.98254"><tspan
+           style="font-size:3.97835px;fill:#ffffff">the country. Evidence exists of 50% increased </tspan></tspan><tspan
+         x="459.3602"
+         y="572.95551"><tspan
+           style="font-size:3.97835px;fill:#ffffff">transmission, as well as an increase of fatality </tspan></tspan><tspan
+         x="459.3602"
+         y="577.92847"><tspan
+           style="font-size:3.97835px;fill:#ffffff">rates. However, it does not seem to have </tspan></tspan><tspan
+         x="459.3602"
+         y="582.90143"><tspan
+           style="font-size:3.97835px;fill:#ffffff">significantly increased resistance to </tspan></tspan><tspan
+         x="459.3602"
+         y="587.87439"><tspan
+           style="font-size:3.97835px;fill:#ffffff">vaccination or current medical treatments.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text16008-6"
+       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16010-3)"
+       transform="matrix(1.2414404,0,0,1.2414404,-46.891328,-201.6063)"
+       x="-20.318657"
+       y="0"><tspan
+         x="888.82031"
+         y="366.78964"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">Manaus, Brazil</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">
+</tspan></tspan><tspan
+         x="888.82031"
+         y="372.08129"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">An analysis of blood donors in Manaus indicated </tspan></tspan><tspan
+         x="888.82031"
+         y="377.37295"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">that 76% of the population had been infected </tspan></tspan><tspan
+         x="888.82031"
+         y="382.6646"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">with SARS-CoV-2 by October 2020. Yet, in </tspan></tspan><tspan
+         x="888.82031"
+         y="387.95626"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">January 2021, Manaus suffered another </tspan></tspan><tspan
+         x="888.82031"
+         y="393.24792"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">outbreak with some individuals being reinfected </tspan></tspan><tspan
+         x="888.82031"
+         y="398.53957"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">with the new variant. The new P.1 lineage is </tspan></tspan><tspan
+         x="888.82031"
+         y="403.83123"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">suspected to be better at evading immunity.</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="UK" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Overlays"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.05833333;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:6.35, 6.34999999999999964;stroke-dashoffset:0;filter:url(#filter3705)"
+       d="M 493.96803,405.35023 C 679.61433,222.57885 997.54882,253.49494 997.54882,253.49494"
+       id="path2237"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 952.42268,251.95113 q -0.62136,0.66217 -2.8196,0.73206 l -3.54077,0.11257 -4.23961,6.69923 -0.0352,0.0528 q -0.1,0.10656 -0.23277,0.11078 l -0.94421,0.03 q -0.13278,0.004 -0.23934,-0.0958 -0.15983,-0.14999 -0.0922,-0.34412 l 2.02125,-6.33334 -3.61454,0.11491 q -1.18226,2.29712 -1.28225,2.40367 -0.1,0.10656 -0.23277,0.11078 l -0.94421,0.03 q -0.13278,0.004 -0.23933,-0.0958 -0.137,-0.12855 -0.0988,-0.32176 l 0.82006,-3.23814 -1.0241,-3.17951 q -0.0651,-0.18992 0.0706,-0.33453 0.1,-0.10656 0.23277,-0.11078 l 0.95135,-0.0376 q 0.13278,-0.004 0.23934,0.0958 0.10655,0.1 1.43234,2.31737 l 3.61454,-0.11492 -2.41947,-6.19216 q -0.0799,-0.18944 0.0701,-0.34928 0.1,-0.10656 0.23277,-0.11077 l 0.94421,-0.03 q 0.13278,-0.004 0.23933,0.0958 0.0304,0.0286 0.0385,0.0505 l 4.65659,6.41639 3.54077,-0.11257 q 2.19824,-0.0699 2.86041,0.55147 0.24355,0.22855 0.25317,0.53099 0.01,0.30244 -0.21893,0.546 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:0.0104374;filter:url(#filter3754)" />
+  </g>
   <script
      id="mesh_polyfill"
      type="text/javascript">
