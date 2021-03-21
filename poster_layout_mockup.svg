@@ -3050,11 +3050,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627418"
-     inkscape:cx="2448.4382"
-     inkscape:cy="1556.2062"
+     inkscape:zoom="0.51445126"
+     inkscape:cx="3202.2768"
+     inkscape:cy="583.60869"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer7"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
@@ -5480,15 +5480,41 @@
        ry="6.8229151" />
     <text
        xml:space="preserve"
-       style="-inkscape-font-specification:SF Pro Display;fill:#f9f9f9;font-family:SF Pro Display;font-size:35.9833px;letter-spacing:-0.132292px;line-height:1.25;opacity:1;stroke-width:0.264583;word-spacing:0px"
+       style="font-size:35.9833px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.132292px;word-spacing:0px;opacity:1;fill:#f9f9f9;stroke-width:0.264583"
        x="20.061792"
        y="49.72266"
        id="text17"><tspan
          sodipodi:role="line"
          x="20.061792"
          y="49.72266"
-         style="-inkscape-font-specification:SF Pro Display;fill:#f9f9f9;font-family:SF Pro Display;font-size:35.9833px;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:500;letter-spacing:-2.64583px;stroke-width:0.264583;word-spacing:5.29167px"
-         id="tspan28312">WHAT IS A COVID-19 VARIANT OF CONCERN?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.9833px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-2.64583px;word-spacing:5.29167px;fill:#f9f9f9;stroke-width:0.264583"
+         id="tspan28312">WHAT IS A SARS-COV-2 VARIANT OF CONCERN?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:6.35px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.264583;"
+       x="1182.5233"
+       y="10.47358"
+       id="text203195"><tspan
+         sodipodi:role="line"
+         id="tspan203193"
+         x="1143.3365"
+         y="10.47358"
+         style="font-size:6.35px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583;">20200604 - Frederico Santos</tspan><tspan
+         sodipodi:role="line"
+         x="1143.3365"
+         y="18.411079"
+         style="font-size:6.35px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583;"
+         id="tspan203199">20200613 - Tiago Ramos</tspan><tspan
+         sodipodi:role="line"
+         x="1143.3365"
+         y="26.348579"
+         style="font-size:6.35px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583;"
+         id="tspan203201">20200994 - Rupesh Baradi</tspan><tspan
+         sodipodi:role="line"
+         x="1143.3365"
+         y="34.286079"
+         style="font-size:6.35px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583;"
+         id="tspan203197" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5511,13 +5537,13 @@
        width="194.33228"
        height="174.71799"
        x="22.280437"
-       y="95.47718"
+       y="102.88551"
        ry="3.925174" />
     <text
        xml:space="preserve"
        id="text2644"
        style="font-size:9.87778px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2646);fill:#ffffff;"
-       transform="translate(0,-75.696133)"
+       transform="translate(0,-68.287795)"
        x="0"
        y="0"><tspan
          x="31.935547"
@@ -5574,13 +5600,13 @@
        width="194.33228"
        height="174.71799"
        x="22.280437"
-       y="280.67307"
+       y="303.42758"
        ry="3.925174" />
     <text
        xml:space="preserve"
        id="text22618"
        style="font-size:9.87778px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22620);fill:#ffffff;"
-       transform="translate(0,109.49976)"
+       transform="translate(0,132.25407)"
        x="0"
        y="0"><tspan
          x="31.935547"
@@ -5844,7 +5870,7 @@
        width="1161.2499"
        height="184.45647"
        x="12.367947"
-       y="644.99152"
+       y="637.12109"
        ry="4.2333331" />
     <g
        clip-path="url(#clip38-4)"
@@ -5855,7 +5881,7 @@
        xml:space="preserve"
        id="text84629"
        style="font-size:8.46667px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect84631);fill:#ffffff;"
-       transform="translate(94.532701,478.24827)"
+       transform="translate(94.532701,470.37786)"
        x="0"
        y="0"><tspan
          x="31.935547"
@@ -5864,14 +5890,15 @@
        xml:space="preserve"
        id="text84635"
        style="font-size:8.46667px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect84637);fill:#ffffff;"
-       transform="translate(340.88138,477.76654)"
+       transform="translate(340.88138,469.89613)"
        x="0"
        y="0"><tspan
          x="31.935547"
          y="187.74334"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">ESTIMATED DISTRIBUTION OF VARIANTS ON ACTIVE GLOBAL CASES</tspan></tspan></text>
     <g
-       id="g2067">
+       id="g2067"
+       transform="translate(0,-7.8704103)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.30671px;line-height:1.25;font-family:'SF Pro Display';letter-spacing:0px;white-space:pre;inline-size:37.5796;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6058,7 +6085,8 @@
       </g>
     </g>
     <g
-       id="g2033">
+       id="g2033"
+       transform="translate(0,-7.8704103)">
       <path
          d="M 406.37571,792.04692 H 608.12562 M 406.37571,773.01743 H 608.12562 M 406.37571,753.98795 H 608.12562 M 406.37571,734.95845 H 608.12562 M 406.37571,715.92896 H 608.12562 M 406.37571,696.89945 h 201.74991"
          stroke-width="1.25"
@@ -6660,402 +6688,406 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
            id="tspan1773">CASES (IN MILLIONS)</tspan></text>
     </g>
-    <text
-       fill="#595959"
-       font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-       font-weight="700"
-       font-size="17px"
-       id="text3047"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
-       x="769.64551"
-       y="809.57001"
-       transform="scale(1.0053674,0.99466125)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
-         id="tspan89217">DAYS SINCE FIRST DETECTION</tspan></text>
-    <text
-       fill="#595959"
-       font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-       font-weight="700"
-       font-size="17px"
-       id="text89285"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
-       x="-759.46387"
-       y="708.50555"
-       transform="matrix(0,-1.0053674,0.99466125,0,0,0)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
-         id="tspan89283">NUMBER OF COUNTRIES</tspan></text>
     <g
-       clip-path="url(#clip4-8)"
-       id="g2841"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1">
+       id="g203263">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="700"
+         font-size="17px"
+         id="text3047"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
+         x="769.64551"
+         y="801.65735"
+         transform="scale(1.0053674,0.99466125)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
+           id="tspan89217">DAYS SINCE FIRST DETECTION</tspan></text>
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="700"
+         font-size="17px"
+         id="text89285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
+         x="-751.6355"
+         y="708.50555"
+         transform="matrix(0,-1.0053674,0.99466125,0,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
+           id="tspan89283">NUMBER OF COUNTRIES</tspan></text>
+      <g
+         clip-path="url(#clip4-8)"
+         id="g2841"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1">
+        <path
+           d="m 1070.5,470.5 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680"
+           stroke="#d9d9d9"
+           stroke-width="1.25"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="none"
+           id="path2839"
+           style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         clip-path="url(#clip7-2)"
+         id="g2853"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#c35944;fill-opacity:1">
+        <path
+           d="m 1071,508 h 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 l 4,-4 h 4 l 4,-8 h 4 5 4 4 l 4,-5 h 4 4 4 4 l 4,-8 h 5 4 l 4,-4 h 4 4 4 l 4,-4 4,-4 5,-4 h 4 4 l 4,-4 h 4 l 4,-13 h 4 l 4,-4 5,-4 4,-4 4,-8 h 4 4 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-4 h 4 4 4 4 l 5,-5 h 4 4 4 4 4 l 4,-4 4,107 h 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 v 0 h -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 c -2.6667,0 -5.3333,0 -8,0 h -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 z"
+           fill="#c35944"
+           fill-opacity="0.701961"
+           id="path2851"
+           style="fill:#c35944;fill-opacity:1"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      </g>
+      <g
+         clip-path="url(#clip6-6-4)"
+         id="g2849"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#a9c323;fill-opacity:0.981186">
+        <path
+           d="m 1071,508 h 4 239 4 l 4,-4 h 4 4 5 l 4,-4 h 4 l 4,-4 4,-5 h 4 l 4,-4 h 4 l 5,-8 h 4 l 4,-4 4,-8 h 4 l 4,-8 h 4 l 4,-9 h 5 4 4 l 4,-4 4,-8 h 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-8 h 4 l 4,-9 4,-4 h 4 l 5,-4 4,-4 h 4 l 4,-4 h 4 l 4,-4 4,-4 h 4 5 l 4,-4 4,-4 4,-4 h 4 4 l 4,-5 h 4 5 4 l 4,-4 h 4 4 l 4,-4 h 4 4 4 l 5,-4 4,-4 4,-4 h 4 4 4 4 4 5 l 4,-8 4,-4 h 4 l 4,-4 h 4 4 4 5 4 l 4,-5 0.8085,184.37499 L 1353,512 h -282 z"
+           fill="#aabf55"
+           fill-opacity="0.74902"
+           id="path2847"
+           style="fill:#a9c323;fill-opacity:0.981186"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      </g>
       <path
-         d="m 1070.5,470.5 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680"
-         stroke="#d9d9d9"
-         stroke-width="1.25"
-         stroke-linejoin="round"
-         stroke-miterlimit="10"
-         fill="none"
-         id="path2839"
-         style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       clip-path="url(#clip7-2)"
-       id="g2853"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#c35944;fill-opacity:1">
-      <path
-         d="m 1071,508 h 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 l 4,-4 h 4 l 4,-8 h 4 5 4 4 l 4,-5 h 4 4 4 4 l 4,-8 h 5 4 l 4,-4 h 4 4 4 l 4,-4 4,-4 5,-4 h 4 4 l 4,-4 h 4 l 4,-13 h 4 l 4,-4 5,-4 4,-4 4,-8 h 4 4 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-4 h 4 4 4 4 l 5,-5 h 4 4 4 4 4 l 4,-4 4,107 h 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 v 0 h -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 c -2.6667,0 -5.3333,0 -8,0 h -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 z"
-         fill="#c35944"
-         fill-opacity="0.701961"
-         id="path2851"
-         style="fill:#c35944;fill-opacity:1"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-    </g>
-    <g
-       clip-path="url(#clip6-6-4)"
-       id="g2849"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#a9c323;fill-opacity:0.981186">
-      <path
-         d="m 1071,508 h 4 239 4 l 4,-4 h 4 4 5 l 4,-4 h 4 l 4,-4 4,-5 h 4 l 4,-4 h 4 l 5,-8 h 4 l 4,-4 4,-8 h 4 l 4,-8 h 4 l 4,-9 h 5 4 4 l 4,-4 4,-8 h 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-8 h 4 l 4,-9 4,-4 h 4 l 5,-4 4,-4 h 4 l 4,-4 h 4 l 4,-4 4,-4 h 4 5 l 4,-4 4,-4 4,-4 h 4 4 l 4,-5 h 4 5 4 l 4,-4 h 4 4 l 4,-4 h 4 4 4 l 5,-4 4,-4 4,-4 h 4 4 4 4 4 5 l 4,-8 4,-4 h 4 l 4,-4 h 4 4 4 5 4 l 4,-5 0.8085,184.37499 L 1353,512 h -282 z"
-         fill="#aabf55"
-         fill-opacity="0.74902"
-         id="path2847"
-         style="fill:#a9c323;fill-opacity:0.981186"
-         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-    </g>
-    <path
-       d="m 717.65069,790.7857 h 0.93511 0.93512 0.93512 0.93512 0.93512 1.1689 0.93512 0.93511 0.93512 0.93512 0.93512 0.93512 0.93512 1.1689 0.93511 0.93512 0.93512 0.93513 0.93511 0.93512 0.93511 1.1689 0.93512 0.93511 0.93514 0.93511 0.93512 0.93511 0.93512 1.1689 0.93514 0.93511 0.93512 0.93511 0.93512 0.93512 0.93513 0.93511 1.1689 0.93512 0.93511 0.93512 0.93512 0.93513 0.93511 0.93512 1.1689 0.93511 0.93513 0.93511 0.93513 0.93511 0.93512 0.93512 l 1.1689,-0.92516 h 0.93512 l 0.93511,-0.92516 h 0.93513 0.93511 0.93512 0.93512 0.93512 0.93511 1.1689 0.93512 0.93512 0.93513 l 0.93512,-0.92516 h 0.93511 0.93512 0.93511 1.1689 0.93513 0.93512 l 0.93512,-1.15646 h 0.93511 0.93512 0.93511 0.93514 1.1689 0.93511 0.93512 0.93511 0.93512 0.93513 0.93512 0.93511 l 0.93512,-0.92515 1.1689,-0.92517 0.93511,-1.85033 0.93512,-6.7074 0.93513,-3.70065 0.93512,-2.77547 0.93511,-3.00678 0.93512,-1.85033 0.93511,-2.77548 1.1689,-1.85031 0.93513,-3.93194 0.93513,-1.85031 0.93511,-3.70065 0.93512,-0.92516 0.93511,-2.08162 0.93513,-1.85031 0.93511,-0.92517 1.1689,-1.85033 0.93513,-1.85031 0.93511,-3.00677 0.93512,-0.92517 0.93511,-0.92515 0.93513,-0.92517 0.93511,-0.92516 0.93513,-0.92517 h 1.16889 l 0.93512,-1.85031 h 0.93512 l 0.93512,-0.92517 0.93512,-2.0816 h 0.93511 0.93512 l 0.93512,-1.85032 0.93512,-0.92516 1.1689,-1.85032 0.93512,-0.92516 h 0.93512 l 0.93511,-0.92517 h 0.93512 l 0.93512,-1.15645 0.93513,-1.85033 h 0.93512 l 1.16889,-1.8503 h 0.93512 0.93511 0.93512 0.93514 0.93511 0.93512 0.93511 1.1689 0.93511 0.93512 0.93514 l 0.93511,-3.70065 h 0.93512 0.93511 0.93512 0.93513 1.1689 l 0.93512,-0.92516 0.93511,-8.55774 h 0.93512 0.93511 0.93513 0.93512 0.93512 1.1689 0.93511 0.93512 l 0.93511,-0.92516 h 0.93513 0.93511 0.93513 0.93511 1.1689 0.93512 0.93512 v 88.12157 h -0.93512 -0.93512 -1.1689 -0.93511 -0.93513 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -1.1689 -0.93512 -0.93512 -0.93513 -0.93511 -0.93512 -0.93511 -0.93512 -1.1689 -0.93513 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -0.93512 -0.93511 -1.1689 -0.93511 -0.93512 -0.93511 -0.93514 -0.93512 -0.93511 -0.93512 -1.16889 -0.93512 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -0.93512 -1.1689 -0.93512 -0.93512 -0.93512 -0.93511 -0.93512 -0.93512 -0.93512 -0.93512 -1.16889 -0.93513 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -0.93513 -1.1689 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -0.93513 -0.93513 -1.1689 -0.93511 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93511 -1.1689 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93511 -0.93512 -0.93511 -1.1689 -0.93514 -0.93511 -0.93512 -0.93511 -0.93512 -0.93512 -0.93513 -1.1689 -0.93511 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93512 -1.1689 -0.93511 -0.93512 -0.93512 -0.93512 -0.93511 -0.93513 -0.93511 -0.93512 -1.1689 -0.93512 -0.93512 -0.93511 -0.93513 -0.93511 -0.93513 -0.93511 -1.1689 -0.93512 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -1.1689 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -1.1689 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -0.93511 -0.93512 -1.1689 -0.93511 -0.93512 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -1.1689 -0.93512 -0.93512 -0.93512 -0.93512 -0.93512 -0.93511 -0.93512 -1.1689 -0.93512 -0.93512 -0.93512 -0.93512 -0.93511 z"
-       fill="#3183a8"
-       fill-opacity="0.901961"
-       id="path2843"
-       style="fill:#3996c2;fill-opacity:0.728789;stroke-width:0.232532" />
-    <g
-       clip-path="url(#clip10-4)"
-       id="g2865"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
+         d="m 717.65069,782.91529 h 0.93511 0.93512 0.93512 0.93512 0.93512 1.1689 0.93512 0.93511 0.93512 0.93512 0.93512 0.93512 0.93512 1.1689 0.93511 0.93512 0.93512 0.93513 0.93511 0.93512 0.93511 1.1689 0.93512 0.93511 0.93514 0.93511 0.93512 0.93511 0.93512 1.1689 0.93514 0.93511 0.93512 0.93511 0.93512 0.93512 0.93513 0.93511 1.1689 0.93512 0.93511 0.93512 0.93512 0.93513 0.93511 0.93512 1.1689 0.93511 0.93513 0.93511 0.93513 0.93511 0.93512 0.93512 l 1.1689,-0.92516 h 0.93512 l 0.93511,-0.92516 h 0.93513 0.93511 0.93512 0.93512 0.93512 0.93511 1.1689 0.93512 0.93512 0.93513 l 0.93512,-0.92516 h 0.93511 0.93512 0.93511 1.1689 0.93513 0.93512 l 0.93512,-1.15646 h 0.93511 0.93512 0.93511 0.93514 1.1689 0.93511 0.93512 0.93511 0.93512 0.93513 0.93512 0.93511 l 0.93512,-0.92515 1.1689,-0.92517 0.93511,-1.85033 0.93512,-6.7074 0.93513,-3.70065 0.93512,-2.77547 0.93511,-3.00678 0.93512,-1.85033 0.93511,-2.77548 1.1689,-1.85031 0.93513,-3.93194 0.93513,-1.85031 0.93511,-3.70065 0.93512,-0.92516 0.93511,-2.08162 0.93513,-1.85031 0.93511,-0.92517 1.1689,-1.85033 0.93513,-1.85031 0.93511,-3.00677 0.93512,-0.92517 0.93511,-0.92515 0.93513,-0.92517 0.93511,-0.92516 0.93513,-0.92517 h 1.16889 l 0.93512,-1.85031 h 0.93512 l 0.93512,-0.92517 0.93512,-2.0816 h 0.93511 0.93512 l 0.93512,-1.85032 0.93512,-0.92516 1.1689,-1.85032 0.93512,-0.92516 h 0.93512 l 0.93511,-0.92517 h 0.93512 l 0.93512,-1.15645 0.93513,-1.85033 h 0.93512 l 1.16889,-1.8503 h 0.93512 0.93511 0.93512 0.93514 0.93511 0.93512 0.93511 1.1689 0.93511 0.93512 0.93514 l 0.93511,-3.70065 h 0.93512 0.93511 0.93512 0.93513 1.1689 l 0.93512,-0.92516 0.93511,-8.55774 h 0.93512 0.93511 0.93513 0.93512 0.93512 1.1689 0.93511 0.93512 l 0.93511,-0.92516 h 0.93513 0.93511 0.93513 0.93511 1.1689 0.93512 0.93512 v 88.12157 h -0.93512 -0.93512 -1.1689 -0.93511 -0.93513 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -1.1689 -0.93512 -0.93512 -0.93513 -0.93511 -0.93512 -0.93511 -0.93512 -1.1689 -0.93513 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -0.93512 -0.93511 -1.1689 -0.93511 -0.93512 -0.93511 -0.93514 -0.93512 -0.93511 -0.93512 -1.16889 -0.93512 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -0.93512 -1.1689 -0.93512 -0.93512 -0.93512 -0.93511 -0.93512 -0.93512 -0.93512 -0.93512 -1.16889 -0.93513 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -0.93513 -1.1689 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -0.93513 -0.93513 -1.1689 -0.93511 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93511 -1.1689 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93511 -0.93512 -0.93511 -1.1689 -0.93514 -0.93511 -0.93512 -0.93511 -0.93512 -0.93512 -0.93513 -1.1689 -0.93511 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93512 -1.1689 -0.93511 -0.93512 -0.93512 -0.93512 -0.93511 -0.93513 -0.93511 -0.93512 -1.1689 -0.93512 -0.93512 -0.93511 -0.93513 -0.93511 -0.93513 -0.93511 -1.1689 -0.93512 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -1.1689 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -1.1689 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -0.93511 -0.93512 -1.1689 -0.93511 -0.93512 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -1.1689 -0.93512 -0.93512 -0.93512 -0.93512 -0.93512 -0.93511 -0.93512 -1.1689 -0.93512 -0.93512 -0.93512 -0.93512 -0.93511 z"
+         fill="#3183a8"
+         fill-opacity="0.901961"
+         id="path2843"
+         style="fill:#3996c2;fill-opacity:0.728789;stroke-width:0.232532" />
+      <g
+         clip-path="url(#clip10-4)"
+         id="g2865"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1047.43,517)"
+           id="text2863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">0</text>
+      </g>
+      <g
+         clip-path="url(#clip11-8)"
+         id="g2869"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,476)"
+           id="text2867"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">10</text>
+      </g>
+      <g
+         clip-path="url(#clip12-2)"
+         id="g2873"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,435)"
+           id="text2871"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">20</text>
+      </g>
+      <g
+         clip-path="url(#clip13-6)"
+         id="g2877"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,394)"
+           id="text2875"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">30</text>
+      </g>
+      <g
+         clip-path="url(#clip14-2-8)"
+         id="g2881"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,353)"
+           id="text2879"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">40</text>
+      </g>
+      <g
+         clip-path="url(#clip15-4)"
+         id="g2885"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,312)"
+           id="text2883"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">50</text>
+      </g>
+      <g
+         clip-path="url(#clip16-9)"
+         id="g2889"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,271)"
+           id="text2887"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
+      </g>
+      <g
+         clip-path="url(#clip17-4)"
+         id="g2893"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,230)"
+           id="text2891"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">70</text>
+      </g>
+      <g
+         clip-path="url(#clip18-3)"
+         id="g2897"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,189)"
+           id="text2895"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
+      </g>
+      <g
+         clip-path="url(#clip19-5)"
+         id="g2901-8"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1039.35,148)"
+           id="text2899"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
+      </g>
+      <g
+         clip-path="url(#clip20-3)"
+         id="g2905"
+         transform="matrix(0.23377972,0,0,0.23129019,467.2726,665.41987)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="translate(1031.27,107)"
+           id="text2903"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">100</text>
+      </g>
+      <g
+         clip-path="url(#clip21-9)"
+         id="g2909"
+         transform="matrix(0,0.23377972,-0.23129019,0,839.43506,538.20682)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,803.955,-272.955)"
+           id="text2907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">1</text>
+      </g>
+      <g
+         clip-path="url(#clip26-0)"
+         id="g2929"
+         transform="matrix(0,0.23377972,-0.23129019,0,864.27695,514.88198)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,859.46,-320.46)"
+           id="text2927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'"
+             id="tspan86137">26</tspan></text>
+      </g>
+      <g
+         clip-path="url(#clip33-0)"
+         id="g2957"
+         transform="matrix(0,0.23377972,-0.23129019,0,898.04941,481.22302)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,931.57,-392.57)"
+           id="text2955"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
+      </g>
+      <g
+         clip-path="url(#clip37-2)"
+         id="g2973"
+         transform="matrix(0,0.23377972,-0.23129019,0,915.57117,461.96061)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,972.775,-433.775)"
+           id="text2971"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
+      </g>
+      <g
+         clip-path="url(#clip39-4)"
+         id="g2981"
+         transform="matrix(0,0.23377972,-0.23129019,0,926.96113,452.33501)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,993.38,-454.38)"
+           id="text2979"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
+      </g>
+      <g
+         clip-path="url(#clip49-5)"
+         id="g3021"
+         transform="matrix(0,0.23377972,-0.23129019,0,975.78721,404.83795)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,1100.39,-553.39)"
+           id="text3019"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">141</text>
+      </g>
+      <g
+         clip-path="url(#clip54-8)"
+         id="g3041"
+         transform="matrix(0,0.23377972,-0.23129019,0,999.82211,380.70143)"
+         style="fill:#f9f9f9">
+        <text
+           fill="#595959"
+           font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+           font-weight="400"
+           font-size="15px"
+           transform="rotate(-90,1151.9,-604.9)"
+           id="text3039"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">166</text>
+      </g>
+      <g
+         clip-path="url(#clip48-3-9)"
+         id="g80425-6"
+         transform="matrix(1.4727153,0,0,0.24362903,-896.80638,-11.892214)"
+         style="fill:url(#linearGradient80433-3);fill-opacity:1">
+        <path
+           id="rect80423-0"
+           style="fill:#3996c2;fill-opacity:1;stroke-width:1.39811"
+           transform="scale(1,-1)"
+           d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
+           sodipodi:nodetypes="cccccc" />
+      </g>
       <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1047.43,517)"
-         id="text2863"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">0</text>
-    </g>
-    <g
-       clip-path="url(#clip11-8)"
-       id="g2869"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,476)"
-         id="text2867"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">10</text>
-    </g>
-    <g
-       clip-path="url(#clip12-2)"
-       id="g2873"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,435)"
-         id="text2871"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">20</text>
-    </g>
-    <g
-       clip-path="url(#clip13-6)"
-       id="g2877"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,394)"
-         id="text2875"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">30</text>
-    </g>
-    <g
-       clip-path="url(#clip14-2-8)"
-       id="g2881"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,353)"
-         id="text2879"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">40</text>
-    </g>
-    <g
-       clip-path="url(#clip15-4)"
-       id="g2885"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,312)"
-         id="text2883"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">50</text>
-    </g>
-    <g
-       clip-path="url(#clip16-9)"
-       id="g2889"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,271)"
-         id="text2887"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
-    </g>
-    <g
-       clip-path="url(#clip17-4)"
-       id="g2893"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,230)"
-         id="text2891"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">70</text>
-    </g>
-    <g
-       clip-path="url(#clip18-3)"
-       id="g2897"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,189)"
-         id="text2895"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
-    </g>
-    <g
-       clip-path="url(#clip19-5)"
-       id="g2901-8"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1039.35,148)"
-         id="text2899"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
-    </g>
-    <g
-       clip-path="url(#clip20-3)"
-       id="g2905"
-       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="translate(1031.27,107)"
-         id="text2903"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">100</text>
-    </g>
-    <g
-       clip-path="url(#clip21-9)"
-       id="g2909"
-       transform="matrix(0,0.23377972,-0.23129019,0,839.43506,546.07723)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,803.955,-272.955)"
-         id="text2907"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">1</text>
-    </g>
-    <g
-       clip-path="url(#clip26-0)"
-       id="g2929"
-       transform="matrix(0,0.23377972,-0.23129019,0,864.27695,522.75239)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,859.46,-320.46)"
-         id="text2927"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'"
-           id="tspan86137">26</tspan></text>
-    </g>
-    <g
-       clip-path="url(#clip33-0)"
-       id="g2957"
-       transform="matrix(0,0.23377972,-0.23129019,0,898.04941,489.09343)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,931.57,-392.57)"
-         id="text2955"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
-    </g>
-    <g
-       clip-path="url(#clip37-2)"
-       id="g2973"
-       transform="matrix(0,0.23377972,-0.23129019,0,915.57117,469.83102)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,972.775,-433.775)"
-         id="text2971"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
-    </g>
-    <g
-       clip-path="url(#clip39-4)"
-       id="g2981"
-       transform="matrix(0,0.23377972,-0.23129019,0,926.96113,460.20542)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,993.38,-454.38)"
-         id="text2979"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
-    </g>
-    <g
-       clip-path="url(#clip49-5)"
-       id="g3021"
-       transform="matrix(0,0.23377972,-0.23129019,0,975.78721,412.70836)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,1100.39,-553.39)"
-         id="text3019"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">141</text>
-    </g>
-    <g
-       clip-path="url(#clip54-8)"
-       id="g3041"
-       transform="matrix(0,0.23377972,-0.23129019,0,999.82211,388.57184)"
-       style="fill:#f9f9f9">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="15px"
-         transform="rotate(-90,1151.9,-604.9)"
-         id="text3039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">166</text>
-    </g>
-    <g
-       clip-path="url(#clip48-3-9)"
-       id="g80425-6"
-       transform="matrix(1.4727153,0,0,0.24362903,-896.80638,-4.0218038)"
-       style="fill:url(#linearGradient80433-3);fill-opacity:1">
-      <path
-         id="rect80423-0"
-         style="fill:#3996c2;fill-opacity:1;stroke-width:1.39811"
-         transform="scale(1,-1)"
-         d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
-         sodipodi:nodetypes="cccccc" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
-       x="879.41803"
-       y="705.06885"
-       id="text80429-5"><tspan
-         sodipodi:role="line"
-         id="tspan80427-2"
+         xml:space="preserve"
+         style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
          x="879.41803"
-         y="705.06885"
-         style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382"> 93</tspan></text>
-    <g
-       clip-path="url(#clip48-3-9)"
-       id="g88736"
-       transform="matrix(1.4727153,0,0,0.24362903,-919.58504,40.129418)"
-       style="fill:#95ad1f;fill-opacity:1">
-      <path
-         id="path88734"
-         style="fill:#95ad1f;fill-opacity:1;stroke-width:1.39811"
-         transform="scale(1,-1)"
-         d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
-         sodipodi:nodetypes="cccccc" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
-       x="857.67053"
-       y="749.22009"
-       id="text88740"><tspan
-         sodipodi:role="line"
-         id="tspan88738"
+         y="697.19843"
+         id="text80429-5"><tspan
+           sodipodi:role="line"
+           id="tspan80427-2"
+           x="879.41803"
+           y="697.19843"
+           style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382"> 93</tspan></text>
+      <g
+         clip-path="url(#clip48-3-9)"
+         id="g88736"
+         transform="matrix(1.4727153,0,0,0.24362903,-919.58504,32.259008)"
+         style="fill:#95ad1f;fill-opacity:1">
+        <path
+           id="path88734"
+           style="fill:#95ad1f;fill-opacity:1;stroke-width:1.39811"
+           transform="scale(1,-1)"
+           d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
          x="857.67053"
-         y="749.22009"
-         style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382">46</tspan></text>
-    <g
-       clip-path="url(#clip48-3-9)"
-       id="g88746"
-       transform="matrix(1.4727153,0,0,0.24362903,-980.60935,59.25224)"
-       style="fill:#c35944;fill-opacity:1">
-      <path
-         id="path88744"
-         style="fill:#c35944;fill-opacity:1;stroke-width:1.39811"
-         transform="scale(1,-1)"
-         d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
-         sodipodi:nodetypes="cccccc" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
-       x="796.72534"
-       y="768.3429"
-       id="text88750"><tspan
-         sodipodi:role="line"
-         id="tspan88748"
+         y="741.34967"
+         id="text88740"><tspan
+           sodipodi:role="line"
+           id="tspan88738"
+           x="857.67053"
+           y="741.34967"
+           style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382">46</tspan></text>
+      <g
+         clip-path="url(#clip48-3-9)"
+         id="g88746"
+         transform="matrix(1.4727153,0,0,0.24362903,-980.60935,51.38183)"
+         style="fill:#c35944;fill-opacity:1">
+        <path
+           id="path88744"
+           style="fill:#c35944;fill-opacity:1;stroke-width:1.39811"
+           transform="scale(1,-1)"
+           d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
+           sodipodi:nodetypes="cccccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
          x="796.72534"
-         y="768.3429"
-         style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382">26</tspan></text>
+         y="760.47247"
+         id="text88750"><tspan
+           sodipodi:role="line"
+           id="tspan88748"
+           x="796.72534"
+           y="760.47247"
+           style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382">26</tspan></text>
+    </g>
     <g
-       id="g2139">
+       id="g2139"
+       transform="translate(0,-7.8704103)">
       <text
          fill="#595959"
          font-family="Arial, Arial_MSFontService, sans-serif"
@@ -7458,7 +7490,7 @@
        xml:space="preserve"
        id="text2145"
        style="font-size:8.46667px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2147);fill:#ffffff;"
-       transform="translate(731.29482,477.76654)"
+       transform="translate(731.29482,469.89613)"
        x="0"
        y="0"><tspan
          x="31.935547"
@@ -7911,18 +7943,18 @@
        width="166.99043"
        height="24.597631"
        x="1020.7015"
-       y="811.52881"
+       y="803.65839"
        ry="0.55257708" />
     <text
        xml:space="preserve"
        style="font-size:12.0567px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.188386"
        x="1126.0887"
-       y="826.62"
+       y="818.74957"
        id="text13143"><tspan
          sodipodi:role="line"
          id="tspan13141"
          x="1126.0887"
-         y="826.62"
+         y="818.74957"
          style="fill:#ffffff;stroke-width:0.188386">sources</tspan></text>
   </g>
   <script
