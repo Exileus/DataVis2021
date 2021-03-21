@@ -13,13 +13,19 @@
    viewBox="0 0 1189 841"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.2 (16c81841c1, 2021-03-16)"
    sodipodi:docname="poster_layout_mockup.svg"
    inkscape:export-filename="/home/fsx/nova/Spring 2021/DV/DataVis2021/poster_gray_iter5.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <rect
+       x="1261.8303"
+       y="648.24996"
+       width="46.746164"
+       height="32.137996"
+       id="rect61337" />
     <rect
        x="511.8092"
        y="464.0456"
@@ -373,8 +379,8 @@
     <rect
        x="888.8205"
        y="362.88306"
-       width="98.297981"
-       height="80.614983"
+       width="101.65506"
+       height="89.911572"
        id="rect14517-8" />
     <rect
        x="888.8205"
@@ -436,21 +442,6 @@
        id="rect11095" />
     <marker
        style="overflow:visible"
-       id="StopS-3-9"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="StopS"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="scale(0.2)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,5.65 V -5.65"
-         id="path2965-2-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="marker11101"
        refX="0"
        refY="0"
@@ -506,8 +497,8 @@
     <rect
        x="888.8205"
        y="362.88306"
-       width="20.458691"
-       height="10.606214"
+       width="33.628914"
+       height="15.627066"
        id="rect14517-8-3" />
     <rect
        x="888.8205"
@@ -3021,6 +3012,36 @@
        width="83.077599"
        height="70.411743"
        id="rect3765" />
+    <rect
+       x="888.8205"
+       y="362.88306"
+       width="85.157737"
+       height="70.411743"
+       id="rect16010-0" />
+    <rect
+       x="888.8205"
+       y="362.88306"
+       width="83.077599"
+       height="70.411743"
+       id="rect2852" />
+    <rect
+       x="888.8205"
+       y="362.88306"
+       width="33.877237"
+       height="6.2973762"
+       id="rect61466" />
+    <rect
+       x="31.93639"
+       y="179.9304"
+       width="271.71559"
+       height="17.069522"
+       id="rect61508" />
+    <rect
+       x="31.93639"
+       y="179.9304"
+       width="271.71559"
+       height="17.069522"
+       id="rect61646" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3029,11 +3050,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32000001"
-     inkscape:cx="3106.7772"
-     inkscape:cy="1119.3555"
+     inkscape:zoom="0.22627418"
+     inkscape:cx="2448.4382"
+     inkscape:cy="1556.2062"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer10"
      inkscape:document-rotation="0"
      showgrid="false"
      units="mm"
@@ -3044,19 +3065,19 @@
      inkscape:snap-text-baseline="false"
      inkscape:snap-page="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-others="false"
      inkscape:pagecheckerboard="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-global="true"
      showguides="false" />
   <metadata
@@ -3091,291 +3112,6 @@
          x="437.83914"
          y="494.21054"
          style="fill:#ffffff;stroke-width:0.264583" /></text>
-    <g
-       id="g81235"
-       transform="translate(-45.651345,357.72179)">
-      <rect
-         style="fill:#d1d1d1;fill-opacity:1;stroke:#ffffff;stroke-width:1.27668;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect15487-7"
-         width="183.48972"
-         height="107.47402"
-         x="1027.0271"
-         y="168.17596" />
-      <text
-         xml:space="preserve"
-         id="text14515-3"
-         style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8);"
-         transform="translate(215.02333,-180.94688)"><tspan
-           x="888.82031"
-           y="366.78964"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">Countries are colored by the most prevalent of the </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">three </tspan></tspan><tspan
-           x="888.82031"
-           y="372.08129"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">Variants of Concern, estimated by the </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">distribution of </tspan></tspan><tspan
-           x="888.82031"
-           y="377.37295"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">sequenced samples at the date of </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">February 8th, 2021. 
-</tspan></tspan><tspan
-           x="888.82031"
-           y="382.6646"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">
-</tspan></tspan><tspan
-           x="888.82031"
-           y="387.95626"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">Countries without available data or low amount of </tspan></tspan><tspan
-           x="888.82031"
-           y="393.24792"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">samples are uncoloured.
-</tspan></tspan><tspan
-           x="888.82031"
-           y="398.53957"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">
-</tspan></tspan><tspan
-           x="888.82031"
-           y="403.83123"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">The intensity of the coloring denotes how dominant </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">the </tspan></tspan><tspan
-           x="888.82031"
-           y="409.12289"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">variant was in regards to the collected samples. </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">As </tspan></tspan><tspan
-           x="888.82031"
-           y="414.41454"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">such, countries with a darker color have a higher </tspan></tspan><tspan
-           x="888.82031"
-           y="419.7062"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">proportion of cases causes by a specific strain. </tspan></tspan><tspan
-           x="888.82031"
-           y="424.99786"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">Countries with a lighter color represent lower </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">prevalence </tspan></tspan><tspan
-           x="888.82031"
-           y="430.28951"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">of variants of concern.</tspan></tspan></text>
-      <g
-         id="g2901"
-         transform="translate(51.81489,18.196002)">
-        <rect
-           style="fill:#84c1e1;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2835"
-           width="12.170834"
-           height="16.065357"
-           x="1016.7966"
-           y="225.25038"
-           ry="0" />
-        <rect
-           style="fill:#3996c2;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2837"
-           width="12.170834"
-           height="16.065357"
-           x="1016.7966"
-           y="193.40154"
-           ry="0" />
-        <text
-           xml:space="preserve"
-           id="text14515-3-6"
-           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6);"
-           transform="matrix(1.2314141,0,0,1.2636206,-106.82985,-236.09854)"><tspan
-             x="888.82031"
-             y="366.78964"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">20%</tspan></tspan></text>
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS-3);marker-end:url(#StopS-3);paint-order:markers stroke fill"
-           d="m 1000.5706,225.52326 h -1.90713"
-           id="path2756-4" />
-        <text
-           xml:space="preserve"
-           id="text14515-3-6-2"
-           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-6);"
-           transform="matrix(1.2314141,0,0,1.2636206,-106.76746,-251.72996)"><tspan
-             x="888.82031"
-             y="366.78964"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">40%</tspan></tspan></text>
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS-3-9);marker-end:url(#StopS-3-9);paint-order:markers stroke fill"
-           d="m 1000.633,209.89184 h -1.90723"
-           id="path2756-4-3" />
-        <rect
-           style="fill:#e09485;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2845"
-           width="12.170834"
-           height="16.065357"
-           x="1002.7738"
-           y="225.25052"
-           ry="0" />
-        <text
-           xml:space="preserve"
-           id="text14515-3-6-6"
-           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-1);"
-           transform="matrix(1.2314141,0,0,1.2636206,-106.70131,-284.07051)"><tspan
-             x="888.82031"
-             y="366.78964"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">80%</tspan></tspan></text>
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS-3-4);marker-end:url(#StopS-3-4);paint-order:markers stroke fill"
-           d="m 1000.6991,177.55129 h -1.90713"
-           id="path2756-4-31" />
-        <rect
-           style="fill:#c35944;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2847"
-           width="12.170834"
-           height="16.065357"
-           x="1002.7738"
-           y="193.40167"
-           ry="0" />
-        <text
-           xml:space="preserve"
-           id="text14515-3-1"
-           style="font-size:3.52778px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3);"
-           transform="matrix(0.88782548,0,0,0.89781026,191.83874,-165.22801)"
-           x="38.423176"
-           y="0"><tspan
-             x="892.93913"
-             y="366.1385"><tspan
-               dx="0 0 0 0 0 0 0 0 0 0 0.39118308 -0.3911829 0 0.39118248"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end">Proportion of </tspan></tspan><tspan
-             x="894.38599"
-             y="370.54823"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end">Sequences</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           id="text14515-3-1-2"
-           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3);"
-           transform="matrix(1.3065163,0,0,1.2043932,-142.78489,-195.94921)"
-           x="38.423176"
-           y="0"><tspan
-             x="888.82031"
-             y="367.25872"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74162px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">UK</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           id="text14515-3-1-2-8"
-           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3-2);"
-           transform="matrix(1.3065163,0,0,1.2043932,-127.98161,-195.94921)"
-           x="38.423176"
-           y="0"><tspan
-             x="888.82031"
-             y="367.25872"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">ZA</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           id="text14515-3-1-2-8-6"
-           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3-2-6);"
-           transform="matrix(1.3065163,0,0,1.2043932,-156.29203,-195.94921)"
-           x="38.423176"
-           y="0"><tspan
-             x="888.82031"
-             y="367.25872"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">BR</tspan></tspan></text>
-        <rect
-           style="fill:#5cadd6;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2839"
-           width="12.170834"
-           height="16.065357"
-           x="1016.7966"
-           y="209.32597"
-           ry="0" />
-        <rect
-           style="fill:#1277a5;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2841"
-           width="12.170834"
-           height="16.065357"
-           x="1016.7966"
-           y="177.47711"
-           ry="0" />
-        <rect
-           style="fill:#165775;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2843"
-           width="12.170834"
-           height="16.065357"
-           x="1016.7966"
-           y="161.41174"
-           ry="0" />
-        <rect
-           style="fill:#dcf075;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2110-2-1"
-           width="12.170834"
-           height="16.065357"
-           x="1030.5549"
-           y="225.25064"
-           ry="0" />
-        <rect
-           style="fill:#95ad1f;fill-opacity:1;stroke-width:0.081;stroke-miterlimit:4;stroke-dasharray:none"
-           id="rect2110-1-3-2"
-           width="12.170834"
-           height="16.065357"
-           x="1030.5549"
-           y="193.40179"
-           ry="0" />
-        <rect
-           style="fill:#d0eb47;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2110-6-1-1"
-           width="12.170834"
-           height="16.065357"
-           x="1030.5549"
-           y="209.32623"
-           ry="0" />
-        <rect
-           style="fill:#758910;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2110-5-4-0"
-           width="12.170834"
-           height="16.065357"
-           x="1030.5549"
-           y="177.47737"
-           ry="0" />
-        <rect
-           style="fill:#677906;fill-opacity:1;stroke-width:0.0808398"
-           id="rect13656"
-           width="12.170834"
-           height="16.065357"
-           x="1030.5549"
-           y="161.412"
-           ry="0" />
-        <text
-           xml:space="preserve"
-           id="text13806"
-           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect13810);"
-           transform="matrix(1.2314141,0,0,1.2636206,-106.76746,-267.92668)"><tspan
-             x="888.82031"
-             y="366.78964"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">60%</tspan></tspan></text>
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#marker13814);marker-end:url(#marker13824);paint-order:markers stroke fill"
-           d="m 1000.633,193.69512 h -1.90723"
-           id="path13808" />
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.65;stroke-opacity:1;marker-start:url(#StopS);marker-end:url(#StopS);paint-order:markers stroke fill"
-           d="m 1000.591,161.41172 v 79.83802"
-           id="path2756" />
-        <rect
-           style="fill:#d6705c;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2849"
-           width="12.170834"
-           height="16.065357"
-           x="1002.7738"
-           y="209.32611"
-           ry="0" />
-        <rect
-           style="fill:#a63d28;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2851"
-           width="12.170834"
-           height="16.065357"
-           x="1002.7738"
-           y="177.47725"
-           ry="0" />
-        <rect
-           style="fill:#802f1f;fill-opacity:1;stroke-width:0.0808398"
-           id="rect2853"
-           width="12.170834"
-           height="16.065357"
-           x="1002.7738"
-           y="161.41188"
-           ry="0" />
-      </g>
-    </g>
     <g
        style="fill:#999999;stroke:#f3f3f3;stroke-width:0.626607;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g8952"
@@ -5757,16 +5493,17 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="InfoBubbles">
+     inkscape:label="InfoBubbles"
+     style="display:inline">
     <path
        style="opacity:1;fill:#de5353;fill-opacity:0;stroke:none;stroke-width:2.11667;stroke-linecap:round"
        sodipodi:type="inkscape:offset"
        inkscape:radius="-7.0853744"
-       inkscape:original="M 512.5625 460.94922 C 510.06899 460.94922 508.06055 462.95767 508.06055 465.45117 L 508.06055 542.70898 C 508.06055 545.20249 510.06899 547.21094 512.5625 547.21094 L 609.82812 547.21094 C 612.32163 547.21094 614.32812 545.20249 614.32812 542.70898 L 614.32812 465.45117 C 614.32812 462.95767 612.32163 460.94922 609.82812 460.94922 L 512.5625 460.94922 z "
+       inkscape:original="M 512.29492 460.94922 C 509.94966 460.94922 508.06055 462.83833 508.06055 465.18359 L 508.06055 542.97656 C 508.06055 545.32183 509.94966 547.21094 512.29492 547.21094 L 610.0957 547.21094 C 612.44097 547.21094 614.32812 545.32183 614.32812 542.97656 L 614.32812 465.18359 C 614.32812 462.83833 612.44097 460.94922 610.0957 460.94922 L 512.29492 460.94922 z "
        xlink:href="#rect3246"
        id="path7983"
        inkscape:href="#rect3246"
-       d="m 464.85352,391.49609 v 79.4336 h 71.42773 v -79.4336 z"
+       d="M 515.14648,468.03516 V 540.125 h 92.09571 v -72.08984 z"
        transform="matrix(2.5441758,0,0,2.5441758,-982.52627,-686.30957)" />
     <rect
        style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.62106;stroke-linecap:round"
@@ -5779,29 +5516,29 @@
     <text
        xml:space="preserve"
        id="text2644"
-       style="-inkscape-font-specification:SF Pro Display;fill:#ffffff;font-family:SF Pro Display;font-size:9.87778px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect2646);white-space:pre;word-spacing:0px;"
+       style="font-size:9.87778px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2646);fill:#ffffff;"
        transform="translate(0,-75.696133)"
        x="0"
        y="0"><tspan
          x="31.935547"
          y="189.04562"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16897798 0 0 0 0 0 0 0 0 0 0 0 0.16898179 0 0 0 0.16898179 0 0 0 0 0 0 0 0.16898179"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.0238783 0 0 0 0 0 0 0 0 0 0 0 1.0238745 0 0 0 1.0238745 0 0 0 0 0 0 0 1.0238898"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">Conversations surrounding the concern for </tspan></tspan><tspan
          x="31.935547"
          y="201.39285"><tspan
-           dx="0 0 0 0 0 0 0 0 0 4.6436405 0 0 0 0 0 0 0 0 4.6436443 0 0 4.6436367 0 0 0 0 0 0 0 0 0 0 0 4.6436367"
+           dx="0 0 0 0 0 0 0 0 0 5.2441196 0 0 0 0 0 0 0 0 5.2441196 0 0 5.2441196 0 0 0 0 0 0 0 0 0 0 0 5.2441196"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">emerging variants of SARS-CoV-2, the </tspan></tspan><tspan
          x="31.935547"
          y="213.74008"><tspan
-           dx="0 0 0 0 0 0 3.201731 0 0 0 0 3.201731 0 0 0 0 0 0 3.2017272 0 0 0 0 0 0 0 0 0 3.2017348 0 0 0 0 3.2017272"
+           dx="0 0 0 0 0 0 3.6242392 0 0 0 0 3.6242392 0 0 0 0 0 0 3.6242392 0 0 0 0 0 0 0 0 0 3.6242392 0 0 0 0 3.6242316"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">virus that causes COVID-19, have been </tspan></tspan><tspan
          x="31.935547"
          y="226.0873"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 1.2774413 0 0 0 0 0 0 0 0 0 1.2774413 0 0 0 0 0 1.2774336 0 0 0 1.2774413 0 0 0 0 1.2774413 0 0 1.277426"
+           dx="0 0 0 0 0 0 0 0 0 0 0 1.7758276 0 0 0 0 0 0 0 0 0 1.7758276 0 0 0 0 0 1.7758276 0 0 0 1.7758276 0 0 0 0 1.7758276 0 0 1.7758276"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">increasing rampantly since the turn of the </tspan></tspan><tspan
          x="31.935547"
          y="238.43453"><tspan
-           dx="0 0 0 0 0 0.74047685 0 0 0 0 0 0.74047685 0.74047685 0.74047685 0.74047685 0.74047303 0.74047685 0.74047303 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74046922 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74046922 0.74047685 0.74048448 0.74046922 0.74048448 0.74046922 0.74046922 0.74048448 0.74046922 0.74048448 0.74046922 0.74048448 0.74046922 0.74048448 0.74046922 0.74046922 0.74048448"
+           dx="0 0 0 0 0 1.0572684 0 0 0 0 0 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">year 2021.                                           
 </tspan></tspan><tspan
          x="31.935547"
@@ -5810,23 +5547,23 @@
 </tspan></tspan><tspan
          x="31.935547"
          y="263.12899"><tspan
-           dx="0 0 0 0 0 1.5146334 0 0 0 0 0 0 0 0 0 0 0 1.5146315 0 0 0 0 0 0 0 0 1.5146315 0 0 0 1.5146315"
+           dx="0 0 0 0 0 2.4901106 0 0 0 0 0 0 0 0 0 0 0 2.4901145 0 0 0 0 0 0 0 0 2.4901068 0 0 0 2.4901145"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">This infographic explores the terminology, </tspan></tspan><tspan
          x="31.935547"
          y="275.47622"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.6315978 0 0 0 1.6315901 0 0 0 0 0 0 0 1.6315978 0 0 0 0 0 0 0 0 0 1.6315978"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.33095 0 0 0 2.33095 0 0 0 0 0 0 0 2.3309424 0 0 0 0 0 0 0 0 0 2.3309424"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">understanding, and general knowledge of </tspan></tspan><tspan
          x="31.935547"
          y="287.82345"><tspan
-           dx="0 0 0 0 0 8.2718449 0 0 0 0 0 0 0 0 8.2718487 0 0 0 0 0 0 0 0 8.2718487 0 0 0 0 0 0 0 0 8.2718563"
+           dx="0 0 0 0 0 8.9772282 0 0 0 0 0 0 0 0 8.9772282 0 0 0 0 0 0 0 0 8.9772282 0 0 0 0 0 0 0 0 8.9772282"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">this emerging subject, tracking and </tspan></tspan><tspan
          x="31.935547"
          y="300.17068"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 1.6207068 0 0 0 1.6207106 0 0 0 0 0 0 1.6207106 0 0 0 0 0 0 0 1.6207106 0 0 0 0 0 0 0 1.6207182"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 2.3625052 0 0 0 2.3625052 0 0 0 0 0 0 2.3625052 0 0 0 0 0 0 0 2.3625052 0 0 0 0 0 0 0 2.3624976"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">visualizing the global growth, spread, and </tspan></tspan><tspan
          x="31.935547"
          y="312.51791"><tspan
-           dx="0 0 0 0 0 0 0 0 0 5.6798573 0 0 0 0 0 0 5.6798534 0 0 5.6798611 0 0 0 5.6798534 0 0 0 0 0 5.6798611"
+           dx="0 0 0 0 0 0 0 0 0 6.3637753 0 0 0 0 0 0 6.3637791 0 0 6.3637791 0 0 0 6.3637791 0 0 0 0 0 6.3637791"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">probable impact of the three current </tspan></tspan><tspan
          x="31.935547"
          y="324.86514"><tspan
@@ -5842,7 +5579,7 @@
     <text
        xml:space="preserve"
        id="text22618"
-       style="-inkscape-font-specification:SF Pro Display;fill:#ffffff;font-family:SF Pro Display;font-size:9.87778px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect22620);white-space:pre;word-spacing:0px;"
+       style="font-size:9.87778px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect22620);fill:#ffffff;"
        transform="translate(0,109.49976)"
        x="0"
        y="0"><tspan
@@ -5850,47 +5587,252 @@
          y="189.04562"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">About Strains, Variants and Mutations</tspan></tspan></text>
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42058"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42062"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42064"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42066"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42068"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42070"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
     <text
-       style="fill:#ffffff;font-family:SF Pro Display;font-size:2.10909px;stroke-width:0.150649"
+       style="font-size:2.10909px;font-family:'SF Pro Display';fill:#ffffff;stroke-width:0.150649"
        id="text42082"
        transform="scale(0.77935388,1.2831142)"
        x="69.941757"
        y="573.6524" />
+    <g
+       id="g3034">
+      <rect
+         style="fill:#c35944;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
+         id="rect3246"
+         width="124.93759"
+         height="101.4155"
+         x="427.79361"
+         y="529.96124"
+         ry="4.9770751"
+         transform="matrix(0.85056653,0,0,0.85056653,144.19418,10.182103)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
+         x="459.3602"
+         y="523.22589"
+         id="text15998"
+         transform="matrix(1.2414404,0,0,1.2414404,-56.320933,-178.61001)"><tspan
+           x="459.3602"
+           y="523.22589"><tspan
+             style="font-weight:bold">BRAZILIAN VARIANT
+</tspan></tspan><tspan
+           x="459.3602"
+           y="528.19885"><tspan
+             style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+           x="459.3602"
+           y="533.17181"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">: P.1
+</tspan></tspan><tspan
+           x="459.3602"
+           y="538.14478"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">: 20J / 501Y.V3
+</tspan></tspan><tspan
+           x="459.3602"
+           y="543.11774"><tspan
+             style="font-size:3.97835px;fill:#ffffff">Date of First Report:  15th December, 2020
+</tspan></tspan><tspan
+           x="459.3602"
+           y="548.0907"><tspan
+             style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+           x="459.3602"
+           y="553.06366"><tspan
+             style="font-size:3.97835px;fill:#ffffff">Although it shares some of the key mutations </tspan></tspan><tspan
+           x="459.3602"
+           y="558.03662"><tspan
+             style="font-size:3.97835px;fill:#ffffff">that define the other two variants of concern </tspan></tspan><tspan
+           x="459.3602"
+           y="563.00958"><tspan
+             style="font-size:3.97835px;fill:#ffffff">as being more transmissible and possibly </tspan></tspan><tspan
+           x="459.3602"
+           y="567.98254"><tspan
+             style="font-size:3.97835px;fill:#ffffff">more resistant against certain treatments or </tspan></tspan><tspan
+           x="459.3602"
+           y="572.95551"><tspan
+             style="font-size:3.97835px;fill:#ffffff">vaccinations, empirical evidence is still being </tspan></tspan><tspan
+           x="459.3602"
+           y="577.92847"><tspan
+             style="font-size:3.97835px;fill:#ffffff">gathered in regards to its impact. </tspan></tspan></text>
+    </g>
+    <g
+       id="g3004">
+      <rect
+         style="fill:#a9c323;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
+         id="rect2209"
+         width="124.93759"
+         height="107.85594"
+         x="427.79361"
+         y="529.96124"
+         ry="4.9770751"
+         transform="matrix(0.85056653,0,0,0.85056653,377.19463,17.851385)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
+         x="459.3602"
+         y="523.22589"
+         id="text2231"
+         transform="matrix(1.2414404,0,0,1.2414404,176.67951,-170.94073)"><tspan
+           x="459.3602"
+           y="523.22589"><tspan
+             style="font-weight:bold">SOUTH AFRICAN VARIANT
+</tspan></tspan><tspan
+           x="459.3602"
+           y="528.19885"><tspan
+             style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+           x="459.3602"
+           y="533.17181"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">: B.1.351
+</tspan></tspan><tspan
+           x="459.3602"
+           y="538.14478"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">: 20H / 501.V2
+</tspan></tspan><tspan
+           x="459.3602"
+           y="543.11774"><tspan
+             style="font-size:3.97835px;fill:#ffffff">Date of First Report:  8th October, 2020
+</tspan></tspan><tspan
+           x="459.3602"
+           y="548.0907"><tspan
+             style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+           x="459.3602"
+           y="553.06366"><tspan
+             style="font-size:3.97835px;fill:#ffffff">The second identified Variant of Concern, it </tspan></tspan><tspan
+           x="459.3602"
+           y="558.03662"><tspan
+             style="font-size:3.97835px;fill:#ffffff">was announced in December 2020.There is </tspan></tspan><tspan
+           x="459.3602"
+           y="563.00958"><tspan
+             style="font-size:3.97835px;fill:#ffffff">evidence of increased transmission (50%), as </tspan></tspan><tspan
+           x="459.3602"
+           y="567.98254"><tspan
+             style="font-size:3.97835px;fill:#ffffff">well as of reduced efficacy of specific </tspan></tspan><tspan
+           x="459.3602"
+           y="572.95551"><tspan
+             style="font-size:3.97835px;fill:#ffffff">medical </tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">treatments, such as convalescent </tspan></tspan><tspan
+           x="459.3602"
+           y="577.92847"><tspan
+             style="font-size:3.97835px;fill:#ffffff">plasma. It </tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">does not seem to cause more </tspan></tspan><tspan
+           x="459.3602"
+           y="582.90143"><tspan
+             style="font-size:3.97835px;fill:#ffffff">severe or fatal </tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">disease.</tspan></tspan></text>
+    </g>
+    <g
+       id="g3068">
+      <rect
+         style="fill:#1d7097;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
+         id="rect3163"
+         width="124.93759"
+         height="115.74976"
+         x="427.79361"
+         y="529.96124"
+         ry="4.9770751"
+         transform="matrix(0.85056653,0,0,0.85056653,140.64809,-271.37577)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
+         x="459.3602"
+         y="523.22589"
+         id="text3175"
+         transform="matrix(1.2414404,0,0,1.2414404,-59.867031,-460.16789)"><tspan
+           x="459.3602"
+           y="523.22589"><tspan
+             style="font-weight:bold">UNITED KINGDOM VARIANT
+</tspan></tspan><tspan
+           x="459.3602"
+           y="528.19885"><tspan
+             style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+           x="459.3602"
+           y="533.17181"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">: B.1.1.7
+</tspan></tspan><tspan
+           x="459.3602"
+           y="538.14478"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
+             style="font-size:3.97835px;fill:#ffffff">: 20I / 501Y.V1
+</tspan></tspan><tspan
+           x="459.3602"
+           y="543.11774"><tspan
+             style="font-size:3.97835px;fill:#ffffff">Date of First Report:  20th September, 2020
+</tspan></tspan><tspan
+           x="459.3602"
+           y="548.0907"><tspan
+             style="font-size:3.97835px;fill:#ffffff">
+</tspan></tspan><tspan
+           x="459.3602"
+           y="553.06366"><tspan
+             style="font-size:3.97835px;fill:#ffffff">The first identified Variant of Concern, it was </tspan></tspan><tspan
+           x="459.3602"
+           y="558.03662"><tspan
+             style="font-size:3.97835px;fill:#ffffff">announced on the 14th December 2020, </tspan></tspan><tspan
+           x="459.3602"
+           y="563.00958"><tspan
+             style="font-size:3.97835px;fill:#ffffff">having initally expanded in the South East of </tspan></tspan><tspan
+           x="459.3602"
+           y="567.98254"><tspan
+             style="font-size:3.97835px;fill:#ffffff">the country. Evidence exists of 50% increased </tspan></tspan><tspan
+           x="459.3602"
+           y="572.95551"><tspan
+             style="font-size:3.97835px;fill:#ffffff">transmission, as well as an increase of fatality </tspan></tspan><tspan
+           x="459.3602"
+           y="577.92847"><tspan
+             style="font-size:3.97835px;fill:#ffffff">rates. However, it does not seem to have </tspan></tspan><tspan
+           x="459.3602"
+           y="582.90143"><tspan
+             style="font-size:3.97835px;fill:#ffffff">significantly increased resistance to </tspan></tspan><tspan
+           x="459.3602"
+           y="587.87439"><tspan
+             style="font-size:3.97835px;fill:#ffffff">vaccination or current medical treatments.</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text61335"
+       style="font-family:'SF Pro Display';font-size:4.58611128px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'SF Pro Display Light';font-weight:300;white-space:pre;shape-inside:url(#rect61337);" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5903,7 +5845,7 @@
        height="184.45647"
        x="12.367947"
        y="644.99152"
-       ry="4.1437488" />
+       ry="4.2333331" />
     <g
        clip-path="url(#clip38-4)"
        id="g2977"
@@ -6718,408 +6660,400 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
            id="tspan1773">CASES (IN MILLIONS)</tspan></text>
     </g>
+    <text
+       fill="#595959"
+       font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="17px"
+       id="text3047"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
+       x="769.64551"
+       y="809.57001"
+       transform="scale(1.0053674,0.99466125)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
+         id="tspan89217">DAYS SINCE FIRST DETECTION</tspan></text>
+    <text
+       fill="#595959"
+       font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="17px"
+       id="text89285"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
+       x="-759.46387"
+       y="708.50555"
+       transform="matrix(0,-1.0053674,0.99466125,0,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
+         id="tspan89283">NUMBER OF COUNTRIES</tspan></text>
     <g
-       id="g1900"
-       transform="translate(-6.6185764)">
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="700"
-         font-size="17px"
-         id="text3047"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
-         x="776.41833"
-         y="807.97406"
-         transform="scale(1.0053674,0.99466125)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
-           id="tspan89217">DAYS SINCE FIRST DETECTION</tspan></text>
-      <text
-         fill="#595959"
-         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-         font-weight="700"
-         font-size="17px"
-         id="text89285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9;stroke-width:0.211252"
-         x="-759.46387"
-         y="715.15967"
-         transform="matrix(0,-1.0053674,0.99466125,0,0,0)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light'"
-           id="tspan89283">NUMBER OF COUNTRIES</tspan></text>
-      <g
-         id="g1837"
-         transform="matrix(1.1007309,0,0,1.1007309,-71.506157,-79.858318)">
-        <g
-           clip-path="url(#clip4-8)"
-           id="g2841"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1">
-          <path
-             d="m 1070.5,470.5 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680"
-             stroke="#d9d9d9"
-             stroke-width="1.25"
-             stroke-linejoin="round"
-             stroke-miterlimit="10"
-             fill="none"
-             id="path2839"
-             style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1" />
-        </g>
-        <g
-           clip-path="url(#clip7-2)"
-           id="g2853"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#c35944;fill-opacity:1">
-          <path
-             d="m 1071,508 h 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 l 4,-4 h 4 l 4,-8 h 4 5 4 4 l 4,-5 h 4 4 4 4 l 4,-8 h 5 4 l 4,-4 h 4 4 4 l 4,-4 4,-4 5,-4 h 4 4 l 4,-4 h 4 l 4,-13 h 4 l 4,-4 5,-4 4,-4 4,-8 h 4 4 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-4 h 4 4 4 4 l 5,-5 h 4 4 4 4 4 l 4,-4 4,107 h 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 v 0 h -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 c -2.6667,0 -5.3333,0 -8,0 h -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 z"
-             fill="#c35944"
-             fill-opacity="0.701961"
-             id="path2851"
-             style="fill:#c35944;fill-opacity:1"
-             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-        </g>
-        <g
-           clip-path="url(#clip6-6-4)"
-           id="g2849"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#a9c323;fill-opacity:0.981186">
-          <path
-             d="m 1071,508 h 4 239 4 l 4,-4 h 4 4 5 l 4,-4 h 4 l 4,-4 4,-5 h 4 l 4,-4 h 4 l 5,-8 h 4 l 4,-4 4,-8 h 4 l 4,-8 h 4 l 4,-9 h 5 4 4 l 4,-4 4,-8 h 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-8 h 4 l 4,-9 4,-4 h 4 l 5,-4 4,-4 h 4 l 4,-4 h 4 l 4,-4 4,-4 h 4 5 l 4,-4 4,-4 4,-4 h 4 4 l 4,-5 h 4 5 4 l 4,-4 h 4 4 l 4,-4 h 4 4 4 l 5,-4 4,-4 4,-4 h 4 4 4 4 4 5 l 4,-8 4,-4 h 4 l 4,-4 h 4 4 4 5 4 l 4,-5 0.8085,184.37499 L 1353,512 h -282 z"
-             fill="#aabf55"
-             fill-opacity="0.74902"
-             id="path2847"
-             style="fill:#a9c323;fill-opacity:0.981186"
-             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-        </g>
-        <path
-           d="m 722.95183,790.969 h 0.84954 0.84954 0.84955 0.84954 0.84955 1.06193 0.84954 0.84954 0.84954 0.84955 0.84954 0.84955 0.84954 1.06193 0.84954 0.84954 0.84955 0.84955 0.84954 0.84954 0.84954 1.06193 0.84954 0.84954 0.84956 0.84954 0.84954 0.84954 0.84954 1.06193 0.84956 0.84954 0.84954 0.84954 0.84954 0.84955 0.84955 0.84954 1.06193 0.84954 0.84954 0.84954 0.84955 0.84955 0.84954 0.84954 1.06193 0.84954 0.84955 0.84954 0.84955 0.84954 0.84954 0.84955 l 1.06193,-0.8405 h 0.84954 l 0.84954,-0.84049 h 0.84955 0.84954 0.84954 0.84955 0.84954 0.84954 1.06193 0.84954 0.84955 0.84955 l 0.84954,-0.8405 h 0.84954 0.84954 0.84954 1.06193 0.84955 0.84955 l 0.84954,-1.05063 h 0.84954 0.84954 0.84954 0.84956 1.06193 0.84954 0.84954 0.84954 0.84954 0.84956 0.84954 0.84954 l 0.84954,-0.84049 1.06193,-0.8405 0.84954,-1.681 0.84954,-6.09359 0.84956,-3.36199 0.84954,-2.52148 0.84954,-2.73162 0.84954,-1.681 0.84954,-2.52149 1.06193,-1.68099 0.84955,-3.57211 0.84955,-1.68099 0.84954,-3.36199 0.84954,-0.8405 0.84954,-1.89112 0.84955,-1.68098 0.84954,-0.84051 1.06193,-1.681 0.84955,-1.68098 0.84954,-2.73162 0.84954,-0.8405 0.84954,-0.84049 0.84955,-0.8405 0.84954,-0.8405 0.84955,-0.8405 h 1.06192 l 0.84955,-1.68099 h 0.84954 l 0.84955,-0.8405 0.84954,-1.89111 h 0.84954 0.84954 l 0.84955,-1.68099 0.84954,-0.8405 1.06193,-1.68099 0.84955,-0.8405 h 0.84954 l 0.84954,-0.8405 h 0.84954 l 0.84955,-1.05062 0.84955,-1.681 h 0.84954 l 1.06193,-1.68098 h 0.84954 0.84954 0.84954 0.84956 0.84954 0.84954 0.84954 1.06193 0.84954 0.84954 0.84956 l 0.84954,-3.36199 h 0.84954 0.84954 0.84954 0.84956 1.06193 l 0.84954,-0.8405 0.84954,-7.77459 h 0.84954 0.84954 0.84955 0.84955 0.84954 1.06193 0.84954 0.84954 l 0.84954,-0.8405 h 0.84955 0.84954 0.84955 0.84954 1.06193 0.84954 0.84955 v 80.05732 h -0.84955 -0.84954 -1.06193 -0.84954 -0.84955 -0.84954 -0.84955 -0.84954 -0.84954 -0.84954 -1.06193 -0.84954 -0.84955 -0.84955 -0.84954 -0.84954 -0.84954 -0.84954 -1.06193 -0.84956 -0.84954 -0.84954 -0.84954 -0.84954 -0.84956 -0.84954 -0.84954 -1.06193 -0.84954 -0.84954 -0.84954 -0.84956 -0.84954 -0.84954 -0.84954 -1.06193 -0.84954 -0.84955 -0.84955 -0.84954 -0.84954 -0.84954 -0.84955 -1.06193 -0.84954 -0.84955 -0.84954 -0.84954 -0.84954 -0.84955 -0.84954 -0.84955 -1.06192 -0.84955 -0.84954 -0.84955 -0.84954 -0.84954 -0.84954 -0.84955 -1.06193 -0.84954 -0.84955 -0.84954 -0.84954 -0.84954 -0.84955 -0.84955 -1.06193 -0.84954 -0.84954 -0.84954 -0.84954 -0.84956 -0.84954 -0.84954 -1.06193 -0.84954 -0.84954 -0.84954 -0.84956 -0.84954 -0.84954 -0.84954 -0.84954 -1.06193 -0.84956 -0.84954 -0.84954 -0.84954 -0.84954 -0.84955 -0.84955 -1.06193 -0.84954 -0.84954 -0.84954 -0.84954 -0.84955 -0.84955 -0.84954 -1.06193 -0.84954 -0.84954 -0.84955 -0.84954 -0.84954 -0.84955 -0.84954 -0.84954 -1.06193 -0.84955 -0.84954 -0.84954 -0.84955 -0.84954 -0.84955 -0.84954 -1.06193 -0.84954 -0.84954 -0.84955 -0.84955 -0.84954 -0.84954 -0.84954 -1.06193 -0.84954 -0.84955 -0.84955 -0.84954 -0.84954 -0.84954 -0.84954 -0.84956 -1.06193 -0.84954 -0.84954 -0.84954 -0.84954 -0.84956 -0.84954 -0.84954 -1.06193 -0.84954 -0.84954 -0.84954 -0.84955 -0.84955 -0.84954 -0.84954 -1.06193 -0.84954 -0.84955 -0.84954 -0.84955 -0.84954 -0.84954 -0.84954 -1.06193 -0.84955 -0.84954 -0.84955 -0.84954 -0.84954 z"
-           fill="#3183a8"
-           fill-opacity="0.901961"
-           id="path2843"
-           style="fill:#3996c2;fill-opacity:0.728789;stroke-width:0.211252" />
-        <g
-           clip-path="url(#clip10-4)"
-           id="g2865"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1047.43,517)"
-             id="text2863"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">0</text>
-        </g>
-        <g
-           clip-path="url(#clip11-8)"
-           id="g2869"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,476)"
-             id="text2867"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">10</text>
-        </g>
-        <g
-           clip-path="url(#clip12-2)"
-           id="g2873"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,435)"
-             id="text2871"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">20</text>
-        </g>
-        <g
-           clip-path="url(#clip13-6)"
-           id="g2877"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,394)"
-             id="text2875"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">30</text>
-        </g>
-        <g
-           clip-path="url(#clip14-2-8)"
-           id="g2881"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,353)"
-             id="text2879"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">40</text>
-        </g>
-        <g
-           clip-path="url(#clip15-4)"
-           id="g2885"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,312)"
-             id="text2883"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">50</text>
-        </g>
-        <g
-           clip-path="url(#clip16-9)"
-           id="g2889"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,271)"
-             id="text2887"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
-        </g>
-        <g
-           clip-path="url(#clip17-4)"
-           id="g2893"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,230)"
-             id="text2891"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">70</text>
-        </g>
-        <g
-           clip-path="url(#clip18-3)"
-           id="g2897"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,189)"
-             id="text2895"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
-        </g>
-        <g
-           clip-path="url(#clip19-5)"
-           id="g2901-8"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1039.35,148)"
-             id="text2899"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
-        </g>
-        <g
-           clip-path="url(#clip20-3)"
-           id="g2905"
-           transform="matrix(0.2123859,0,0,0.21012419,495.48653,684.22591)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="translate(1031.27,107)"
-             id="text2903"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">100</text>
-        </g>
-        <g
-           clip-path="url(#clip21-9)"
-           id="g2909"
-           transform="matrix(0,0.2123859,-0.21012419,0,833.59138,567.21224)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,803.955,-272.955)"
-             id="text2907"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">1</text>
-        </g>
-        <g
-           clip-path="url(#clip26-0)"
-           id="g2929"
-           transform="matrix(0,0.2123859,-0.21012419,0,856.15992,546.02192)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,859.46,-320.46)"
-             id="text2927"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'"
-               id="tspan86137">26</tspan></text>
-        </g>
-        <g
-           clip-path="url(#clip33-0)"
-           id="g2957"
-           transform="matrix(0,0.2123859,-0.21012419,0,886.84177,515.44318)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,931.57,-392.57)"
-             id="text2955"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
-        </g>
-        <g
-           clip-path="url(#clip37-2)"
-           id="g2973"
-           transform="matrix(0,0.2123859,-0.21012419,0,902.76007,497.94353)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,972.775,-433.775)"
-             id="text2971"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
-        </g>
-        <g
-           clip-path="url(#clip39-4)"
-           id="g2981"
-           transform="matrix(0,0.2123859,-0.21012419,0,913.1077,489.19879)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,993.38,-454.38)"
-             id="text2979"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
-        </g>
-        <g
-           clip-path="url(#clip49-5)"
-           id="g3021"
-           transform="matrix(0,0.2123859,-0.21012419,0,957.46557,446.04832)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,1100.39,-553.39)"
-             id="text3019"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">141</text>
-        </g>
-        <g
-           clip-path="url(#clip54-8)"
-           id="g3041"
-           transform="matrix(0,0.2123859,-0.21012419,0,979.30097,424.1206)"
-           style="fill:#f9f9f9">
-          <text
-             fill="#595959"
-             font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
-             font-weight="400"
-             font-size="15px"
-             transform="rotate(-90,1151.9,-604.9)"
-             id="text3039"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">166</text>
-        </g>
-        <g
-           clip-path="url(#clip48-3-9)"
-           id="g80425-6"
-           transform="matrix(1.3379431,0,0,0.22133387,-743.76185,68.896507)"
-           style="fill:url(#linearGradient80433-3);fill-opacity:1">
-          <path
-             id="rect80423-0"
-             style="fill:#3996c2;fill-opacity:1;stroke-width:1.39811"
-             transform="scale(1,-1)"
-             d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
-             sodipodi:nodetypes="cccccc" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:3.26429px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.11845"
-           x="869.91541"
-           y="713.09631"
-           id="text80429-5"><tspan
-             sodipodi:role="line"
-             id="tspan80427-2"
-             x="869.91541"
-             y="713.09631"
-             style="font-size:3.26429px;fill:#f9f9f9;stroke-width:0.11845"> 93</tspan></text>
-        <g
-           clip-path="url(#clip48-3-9)"
-           id="g88736"
-           transform="matrix(1.3379431,0,0,0.22133387,-764.45597,109.00733)"
-           style="fill:#95ad1f;fill-opacity:1">
-          <path
-             id="path88734"
-             style="fill:#95ad1f;fill-opacity:1;stroke-width:1.39811"
-             transform="scale(1,-1)"
-             d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
-             sodipodi:nodetypes="cccccc" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:3.26429px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.11845"
-           x="850.15808"
-           y="753.20715"
-           id="text88740"><tspan
-             sodipodi:role="line"
-             id="tspan88738"
-             x="850.15808"
-             y="753.20715"
-             style="font-size:3.26429px;fill:#f9f9f9;stroke-width:0.11845">46</tspan></text>
-        <g
-           clip-path="url(#clip48-3-9)"
-           id="g88746"
-           transform="matrix(1.3379431,0,0,0.22133387,-819.89578,126.38017)"
-           style="fill:#c35944;fill-opacity:1">
-          <path
-             id="path88744"
-             style="fill:#c35944;fill-opacity:1;stroke-width:1.39811"
-             transform="scale(1,-1)"
-             d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
-             sodipodi:nodetypes="cccccc" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-size:3.26429px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.11845"
-           x="794.79016"
-           y="770.58002"
-           id="text88750"><tspan
-             sodipodi:role="line"
-             id="tspan88748"
-             x="794.79016"
-             y="770.58002"
-             style="font-size:3.26429px;fill:#f9f9f9;stroke-width:0.11845">26</tspan></text>
-      </g>
+       clip-path="url(#clip4-8)"
+       id="g2841"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1">
+      <path
+         d="m 1070.5,470.5 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680 m -680,-41 h 680"
+         stroke="#d9d9d9"
+         stroke-width="1.25"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="path2839"
+         style="fill:#f9f9f9;stroke:#c2c2c2;stroke-width:1.48218;stroke-miterlimit:4;stroke-dasharray:1.48218, 8.89307;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <g
+       clip-path="url(#clip7-2)"
+       id="g2853"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#c35944;fill-opacity:1">
+      <path
+         d="m 1071,508 h 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 l 4,-4 h 4 l 4,-8 h 4 5 4 4 l 4,-5 h 4 4 4 4 l 4,-8 h 5 4 l 4,-4 h 4 4 4 l 4,-4 4,-4 5,-4 h 4 4 l 4,-4 h 4 l 4,-13 h 4 l 4,-4 5,-4 4,-4 4,-8 h 4 4 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-4 h 4 4 4 4 l 5,-5 h 4 4 4 4 4 l 4,-4 4,107 h 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 4 4 4 4 4 5 4 4 v 0 h -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 c -2.6667,0 -5.3333,0 -8,0 h -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 -4 -4 -5 -4 -4 -4 -4 -4 z"
+         fill="#c35944"
+         fill-opacity="0.701961"
+         id="path2851"
+         style="fill:#c35944;fill-opacity:1"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       clip-path="url(#clip6-6-4)"
+       id="g2849"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#a9c323;fill-opacity:0.981186">
+      <path
+         d="m 1071,508 h 4 239 4 l 4,-4 h 4 4 5 l 4,-4 h 4 l 4,-4 4,-5 h 4 l 4,-4 h 4 l 5,-8 h 4 l 4,-4 4,-8 h 4 l 4,-8 h 4 l 4,-9 h 5 4 4 l 4,-4 4,-8 h 4 4 4 l 4,-4 h 5 l 4,-4 4,-4 4,-8 h 4 l 4,-9 4,-4 h 4 l 5,-4 4,-4 h 4 l 4,-4 h 4 l 4,-4 4,-4 h 4 5 l 4,-4 4,-4 4,-4 h 4 4 l 4,-5 h 4 5 4 l 4,-4 h 4 4 l 4,-4 h 4 4 4 l 5,-4 4,-4 4,-4 h 4 4 4 4 4 5 l 4,-8 4,-4 h 4 l 4,-4 h 4 4 4 5 4 l 4,-5 0.8085,184.37499 L 1353,512 h -282 z"
+         fill="#aabf55"
+         fill-opacity="0.74902"
+         id="path2847"
+         style="fill:#a9c323;fill-opacity:0.981186"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+    <path
+       d="m 717.65069,790.7857 h 0.93511 0.93512 0.93512 0.93512 0.93512 1.1689 0.93512 0.93511 0.93512 0.93512 0.93512 0.93512 0.93512 1.1689 0.93511 0.93512 0.93512 0.93513 0.93511 0.93512 0.93511 1.1689 0.93512 0.93511 0.93514 0.93511 0.93512 0.93511 0.93512 1.1689 0.93514 0.93511 0.93512 0.93511 0.93512 0.93512 0.93513 0.93511 1.1689 0.93512 0.93511 0.93512 0.93512 0.93513 0.93511 0.93512 1.1689 0.93511 0.93513 0.93511 0.93513 0.93511 0.93512 0.93512 l 1.1689,-0.92516 h 0.93512 l 0.93511,-0.92516 h 0.93513 0.93511 0.93512 0.93512 0.93512 0.93511 1.1689 0.93512 0.93512 0.93513 l 0.93512,-0.92516 h 0.93511 0.93512 0.93511 1.1689 0.93513 0.93512 l 0.93512,-1.15646 h 0.93511 0.93512 0.93511 0.93514 1.1689 0.93511 0.93512 0.93511 0.93512 0.93513 0.93512 0.93511 l 0.93512,-0.92515 1.1689,-0.92517 0.93511,-1.85033 0.93512,-6.7074 0.93513,-3.70065 0.93512,-2.77547 0.93511,-3.00678 0.93512,-1.85033 0.93511,-2.77548 1.1689,-1.85031 0.93513,-3.93194 0.93513,-1.85031 0.93511,-3.70065 0.93512,-0.92516 0.93511,-2.08162 0.93513,-1.85031 0.93511,-0.92517 1.1689,-1.85033 0.93513,-1.85031 0.93511,-3.00677 0.93512,-0.92517 0.93511,-0.92515 0.93513,-0.92517 0.93511,-0.92516 0.93513,-0.92517 h 1.16889 l 0.93512,-1.85031 h 0.93512 l 0.93512,-0.92517 0.93512,-2.0816 h 0.93511 0.93512 l 0.93512,-1.85032 0.93512,-0.92516 1.1689,-1.85032 0.93512,-0.92516 h 0.93512 l 0.93511,-0.92517 h 0.93512 l 0.93512,-1.15645 0.93513,-1.85033 h 0.93512 l 1.16889,-1.8503 h 0.93512 0.93511 0.93512 0.93514 0.93511 0.93512 0.93511 1.1689 0.93511 0.93512 0.93514 l 0.93511,-3.70065 h 0.93512 0.93511 0.93512 0.93513 1.1689 l 0.93512,-0.92516 0.93511,-8.55774 h 0.93512 0.93511 0.93513 0.93512 0.93512 1.1689 0.93511 0.93512 l 0.93511,-0.92516 h 0.93513 0.93511 0.93513 0.93511 1.1689 0.93512 0.93512 v 88.12157 h -0.93512 -0.93512 -1.1689 -0.93511 -0.93513 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -1.1689 -0.93512 -0.93512 -0.93513 -0.93511 -0.93512 -0.93511 -0.93512 -1.1689 -0.93513 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -0.93512 -0.93511 -1.1689 -0.93511 -0.93512 -0.93511 -0.93514 -0.93512 -0.93511 -0.93512 -1.16889 -0.93512 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -0.93512 -1.1689 -0.93512 -0.93512 -0.93512 -0.93511 -0.93512 -0.93512 -0.93512 -0.93512 -1.16889 -0.93513 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -0.93513 -1.1689 -0.93511 -0.93513 -0.93511 -0.93512 -0.93511 -0.93513 -0.93513 -1.1689 -0.93511 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93511 -1.1689 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93511 -0.93512 -0.93511 -1.1689 -0.93514 -0.93511 -0.93512 -0.93511 -0.93512 -0.93512 -0.93513 -1.1689 -0.93511 -0.93512 -0.93511 -0.93512 -0.93513 -0.93512 -0.93512 -1.1689 -0.93511 -0.93512 -0.93512 -0.93512 -0.93511 -0.93513 -0.93511 -0.93512 -1.1689 -0.93512 -0.93512 -0.93511 -0.93513 -0.93511 -0.93513 -0.93511 -1.1689 -0.93512 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -1.1689 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -1.1689 -0.93512 -0.93511 -0.93512 -0.93511 -0.93514 -0.93511 -0.93512 -1.1689 -0.93511 -0.93512 -0.93511 -0.93513 -0.93512 -0.93512 -0.93511 -1.1689 -0.93512 -0.93512 -0.93512 -0.93512 -0.93512 -0.93511 -0.93512 -1.1689 -0.93512 -0.93512 -0.93512 -0.93512 -0.93511 z"
+       fill="#3183a8"
+       fill-opacity="0.901961"
+       id="path2843"
+       style="fill:#3996c2;fill-opacity:0.728789;stroke-width:0.232532" />
+    <g
+       clip-path="url(#clip10-4)"
+       id="g2865"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1047.43,517)"
+         id="text2863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">0</text>
+    </g>
+    <g
+       clip-path="url(#clip11-8)"
+       id="g2869"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,476)"
+         id="text2867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">10</text>
+    </g>
+    <g
+       clip-path="url(#clip12-2)"
+       id="g2873"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,435)"
+         id="text2871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">20</text>
+    </g>
+    <g
+       clip-path="url(#clip13-6)"
+       id="g2877"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,394)"
+         id="text2875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">30</text>
+    </g>
+    <g
+       clip-path="url(#clip14-2-8)"
+       id="g2881"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,353)"
+         id="text2879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">40</text>
+    </g>
+    <g
+       clip-path="url(#clip15-4)"
+       id="g2885"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,312)"
+         id="text2883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">50</text>
+    </g>
+    <g
+       clip-path="url(#clip16-9)"
+       id="g2889"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,271)"
+         id="text2887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
+    </g>
+    <g
+       clip-path="url(#clip17-4)"
+       id="g2893"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,230)"
+         id="text2891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">70</text>
+    </g>
+    <g
+       clip-path="url(#clip18-3)"
+       id="g2897"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,189)"
+         id="text2895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
+    </g>
+    <g
+       clip-path="url(#clip19-5)"
+       id="g2901-8"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1039.35,148)"
+         id="text2899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
+    </g>
+    <g
+       clip-path="url(#clip20-3)"
+       id="g2905"
+       transform="matrix(0.23377972,0,0,0.23129019,467.2726,673.29028)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(1031.27,107)"
+         id="text2903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">100</text>
+    </g>
+    <g
+       clip-path="url(#clip21-9)"
+       id="g2909"
+       transform="matrix(0,0.23377972,-0.23129019,0,839.43506,546.07723)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,803.955,-272.955)"
+         id="text2907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">1</text>
+    </g>
+    <g
+       clip-path="url(#clip26-0)"
+       id="g2929"
+       transform="matrix(0,0.23377972,-0.23129019,0,864.27695,522.75239)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,859.46,-320.46)"
+         id="text2927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'"
+           id="tspan86137">26</tspan></text>
+    </g>
+    <g
+       clip-path="url(#clip33-0)"
+       id="g2957"
+       transform="matrix(0,0.23377972,-0.23129019,0,898.04941,489.09343)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,931.57,-392.57)"
+         id="text2955"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">60</text>
+    </g>
+    <g
+       clip-path="url(#clip37-2)"
+       id="g2973"
+       transform="matrix(0,0.23377972,-0.23129019,0,915.57117,469.83102)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,972.775,-433.775)"
+         id="text2971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">80</text>
+    </g>
+    <g
+       clip-path="url(#clip39-4)"
+       id="g2981"
+       transform="matrix(0,0.23377972,-0.23129019,0,926.96113,460.20542)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,993.38,-454.38)"
+         id="text2979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">90</text>
+    </g>
+    <g
+       clip-path="url(#clip49-5)"
+       id="g3021"
+       transform="matrix(0,0.23377972,-0.23129019,0,975.78721,412.70836)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,1100.39,-553.39)"
+         id="text3019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">141</text>
+    </g>
+    <g
+       clip-path="url(#clip54-8)"
+       id="g3041"
+       transform="matrix(0,0.23377972,-0.23129019,0,999.82211,388.57184)"
+       style="fill:#f9f9f9">
+      <text
+         fill="#595959"
+         font-family="'Segoe UI', 'Segoe UI_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="rotate(-90,1151.9,-604.9)"
+         id="text3039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#f9f9f9">166</text>
+    </g>
+    <g
+       clip-path="url(#clip48-3-9)"
+       id="g80425-6"
+       transform="matrix(1.4727153,0,0,0.24362903,-896.80638,-4.0218038)"
+       style="fill:url(#linearGradient80433-3);fill-opacity:1">
+      <path
+         id="rect80423-0"
+         style="fill:#3996c2;fill-opacity:1;stroke-width:1.39811"
+         transform="scale(1,-1)"
+         d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
+       x="879.41803"
+       y="705.06885"
+       id="text80429-5"><tspan
+         sodipodi:role="line"
+         id="tspan80427-2"
+         x="879.41803"
+         y="705.06885"
+         style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382"> 93</tspan></text>
+    <g
+       clip-path="url(#clip48-3-9)"
+       id="g88736"
+       transform="matrix(1.4727153,0,0,0.24362903,-919.58504,40.129418)"
+       style="fill:#95ad1f;fill-opacity:1">
+      <path
+         id="path88734"
+         style="fill:#95ad1f;fill-opacity:1;stroke-width:1.39811"
+         transform="scale(1,-1)"
+         d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
+       x="857.67053"
+       y="749.22009"
+       id="text88740"><tspan
+         sodipodi:role="line"
+         id="tspan88738"
+         x="857.67053"
+         y="749.22009"
+         style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382">46</tspan></text>
+    <g
+       clip-path="url(#clip48-3-9)"
+       id="g88746"
+       transform="matrix(1.4727153,0,0,0.24362903,-980.60935,59.25224)"
+       style="fill:#c35944;fill-opacity:1">
+      <path
+         id="path88744"
+         style="fill:#c35944;fill-opacity:1;stroke-width:1.39811"
+         transform="scale(1,-1)"
+         d="m 1206,-2915 h 4.6393 v 19.3304 H 1206 l -1.8837,-9.6652 z"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.59311px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;stroke-width:0.130382"
+       x="796.72534"
+       y="768.3429"
+       id="text88750"><tspan
+         sodipodi:role="line"
+         id="tspan88748"
+         x="796.72534"
+         y="768.3429"
+         style="font-size:3.59311px;fill:#f9f9f9;stroke-width:0.130382">26</tspan></text>
     <g
        id="g2139">
       <text
@@ -7529,6 +7463,283 @@
        y="0"><tspan
          x="31.935547"
          y="187.74334"><tspan>TITLE OF GRAPH</tspan></tspan></text>
+    <g
+       id="g61780"
+       transform="translate(7.8977834,7.6046335)">
+      <rect
+         style="display:inline;fill:#383838;fill-opacity:1;stroke:none;stroke-width:2.65406;stroke-linecap:round"
+         id="rect2969"
+         width="207.52551"
+         height="119.79427"
+         x="966.09229"
+         y="77.552345"
+         ry="4.2333331" />
+      <g
+         id="g61689"
+         transform="translate(-6.4010839)"
+         style="display:inline">
+        <rect
+           style="fill:#d0eb47;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2110-6-1-1"
+           width="12.170834"
+           height="16.065357"
+           x="1028.1252"
+           y="149.40775"
+           ry="0" />
+        <rect
+           style="fill:#758910;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2110-5-4-0"
+           width="12.170834"
+           height="16.065357"
+           x="1028.1252"
+           y="117.27701"
+           ry="0" />
+        <rect
+           style="fill:#677906;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect13656"
+           width="12.170834"
+           height="16.065357"
+           x="1028.1252"
+           y="101.21164"
+           ry="0" />
+        <rect
+           style="fill:#d6705c;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2849"
+           width="12.170834"
+           height="16.065357"
+           x="1000.3441"
+           y="149.40762"
+           ry="0" />
+        <rect
+           style="fill:#a63d28;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2851"
+           width="12.170834"
+           height="16.065357"
+           x="1000.3441"
+           y="117.27689"
+           ry="0" />
+        <rect
+           style="fill:#802f1f;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2853"
+           width="12.170834"
+           height="16.065357"
+           x="1000.3441"
+           y="101.21152"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           id="text14515-3"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8);fill:#ffffff;"
+           transform="translate(174.48314,-262.12283)"><tspan
+             x="888.82031"
+             y="367.44078"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">Countries are colored by the most prevalent of the </tspan></tspan><tspan
+             x="888.82031"
+             y="373.61439"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">three Variants of Concern, estimated by the </tspan></tspan><tspan
+             x="888.82031"
+             y="379.78801"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">distribution of sequenced samples at the date of </tspan></tspan><tspan
+             x="888.82031"
+             y="385.96162"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">February 8th, 2021. 
+</tspan></tspan><tspan
+             x="888.82031"
+             y="392.13524"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">
+</tspan></tspan><tspan
+             x="888.82031"
+             y="398.30885"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">The intensity of the coloring denotes how </tspan></tspan><tspan
+             x="888.82031"
+             y="404.48246"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">dominant the variant was in regards to the </tspan></tspan><tspan
+             x="888.82031"
+             y="410.65608"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">collected samples. As such, countries with a darker </tspan></tspan><tspan
+             x="888.82031"
+             y="416.82969"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">color have a higher proportion of cases causes by </tspan></tspan><tspan
+             x="888.82031"
+             y="423.00331"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">a specific variant. Countries with a lighter color </tspan></tspan><tspan
+             x="888.82031"
+             y="429.17692"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">represent lower prevalence of variants of concern.
+</tspan></tspan><tspan
+             x="888.82031"
+             y="435.35054"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">
+</tspan></tspan><tspan
+             x="888.82031"
+             y="441.52415"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">Countries without available data or low amount of </tspan></tspan><tspan
+             x="888.82031"
+             y="447.69777"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93889px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';fill:#ffffff">samples are uncoloured.</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14515-3-6"
+           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6);fill:#ffffff;"
+           transform="matrix(1.2314141,0,0,1.2636206,-107.14285,-295.87611)"><tspan
+             x="888.82031"
+             y="366.78964"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">20%</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14515-3-6-2"
+           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-6);fill:#ffffff;"
+           transform="matrix(1.2314141,0,0,1.2636206,-107.08047,-311.50753)"><tspan
+             x="888.82031"
+             y="366.78964"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">40%</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14515-3-6-6"
+           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8-6-1);fill:#ffffff;"
+           transform="matrix(1.2314141,0,0,1.2636206,-107.01432,-343.84808)"><tspan
+             x="888.82031"
+             y="366.78964"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">80%</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14515-3-1-2"
+           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3);fill:#ffffff;"
+           transform="matrix(1.3065163,0,0,1.2043932,-144.93187,-253.08093)"
+           x="38.423176"
+           y="0"><tspan
+             x="888.82031"
+             y="367.25872"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.74162px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">UK</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14515-3-1-2-8"
+           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3-2);fill:#ffffff;"
+           transform="matrix(1.3065163,0,0,1.2043932,-130.89213,-253.08093)"
+           x="38.423176"
+           y="0"><tspan
+             x="888.82031"
+             y="367.25872"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">ZA</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text14515-3-1-2-8-6"
+           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect14517-8-3-3-2-6);fill:#ffffff;"
+           transform="matrix(1.3065163,0,0,1.2043932,-158.57646,-253.08093)"
+           x="38.423176"
+           y="0"><tspan
+             x="888.82031"
+             y="367.25872"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">BR</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text13806"
+           style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect13810);fill:#ffffff;"
+           transform="matrix(1.2314141,0,0,1.2636206,-107.08047,-327.70425)"><tspan
+             x="888.82031"
+             y="366.78964"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';fill:#ffffff">60%</tspan></tspan></text>
+        <rect
+           style="fill:#84c1e1;fill-opacity:1;stroke:none;stroke-width:0.0808398;stroke-opacity:1"
+           id="rect2835"
+           width="12.170834"
+           height="16.065357"
+           x="1014.3668"
+           y="165.47281"
+           ry="0" />
+        <rect
+           style="fill:#3996c2;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2837"
+           width="12.170834"
+           height="16.065357"
+           x="1014.3668"
+           y="133.34207"
+           ry="0" />
+        <rect
+           style="fill:#e09485;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2845"
+           width="12.170834"
+           height="16.065357"
+           x="1000.3441"
+           y="165.47299"
+           ry="0" />
+        <rect
+           style="fill:#c35944;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2847"
+           width="12.170834"
+           height="16.065357"
+           x="1000.3441"
+           y="133.34225"
+           ry="0" />
+        <rect
+           style="fill:#5cadd6;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2839"
+           width="12.170834"
+           height="16.065357"
+           x="1014.3668"
+           y="149.40744"
+           ry="0" />
+        <rect
+           style="fill:#1277a5;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2841"
+           width="12.170834"
+           height="16.065357"
+           x="1014.3668"
+           y="117.2767"
+           ry="0" />
+        <rect
+           style="fill:#165775;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2843"
+           width="12.170834"
+           height="16.065357"
+           x="1014.3668"
+           y="101.21133"
+           ry="0" />
+        <rect
+           style="fill:#dcf075;fill-opacity:1;stroke:none;stroke-width:0.0808398"
+           id="rect2110-2-1"
+           width="12.170834"
+           height="16.065357"
+           x="1028.1252"
+           y="165.47311"
+           ry="0" />
+        <rect
+           style="fill:#95ad1f;fill-opacity:1;stroke:none;stroke-width:0.081;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect2110-1-3-2"
+           width="12.170834"
+           height="16.065357"
+           x="1028.1252"
+           y="133.34238"
+           ry="0" />
+        <rect
+           style="fill:#999999;fill-opacity:1;stroke-width:0.180763"
+           id="rect61333"
+           width="12.170834"
+           height="80.326813"
+           x="1041.8835"
+           y="101.21164"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           id="text61464"
+           style="font-size:4.74162px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:-0.201519px;word-spacing:-0.391183px;white-space:pre;shape-inside:url(#rect61466);fill:#ffffff;"
+           transform="matrix(1.3065163,0,0,1.2043932,-118.18493,-253.08093)"
+           x="38.423176"
+           y="0"><tspan
+             x="888.82031"
+             y="367.25872"><tspan
+               style="fill:#ffffff">N/A</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         id="text61644"
+         style="font-size:8.46667px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect61646);fill:#ffffff;"
+         transform="translate(986.0012,-96.114145)"
+         x="0"
+         y="0"><tspan
+           x="31.935547"
+           y="187.74334"><tspan>UNDERSTANDING THE MAP</tspan></tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7548,11 +7759,20 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="SouthAfrica">
+     inkscape:label="OriginCountries"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       id="text13273"
+       style="font-size:16.9333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect13275);" />
+    <text
+       xml:space="preserve"
+       id="text2197"
+       style="font-weight:300;font-size:4.58611px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Light';text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2199);" />
     <g
        id="g12988"
        style="filter:url(#filter13132)"
-       transform="matrix(1.2414404,0,0,1.2414404,-60.229738,-16.272227)">
+       transform="matrix(1.2414404,0,0,1.2414404,-60.229737,-16.272227)">
       <path
          class="United Kingdom"
          d="m 553.0829,171.15858 -1.47787,-0.5067 -1.26674,0.0422 0.5067,-1.39342 -0.38003,-1.35119 1.689,-0.12668 2.06901,1.60455 z"
@@ -7574,328 +7794,6 @@
          name="Brazil"
          style="fill:#d6705c;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <rect
-       style="fill:#b3b3b3;fill-opacity:0.783559;stroke:none;stroke-width:2.19597;stroke-linecap:round"
-       id="rect13193"
-       width="291.15991"
-       height="42.887753"
-       x="1108.3505"
-       y="94.99765"
-       ry="0.96345818" />
-    <text
-       xml:space="preserve"
-       style="-inkscape-font-specification:SF Pro Display;fill:#ffffff;font-family:SF Pro Display;font-size:21.0217px;letter-spacing:0px;line-height:1.25;stroke-width:0.328464;word-spacing:0px"
-       x="1292.1007"
-       y="121.31013"
-       id="text13143"><tspan
-         sodipodi:role="line"
-         id="tspan13141"
-         x="1292.1007"
-         y="121.31013"
-         style="fill:#ffffff;stroke-width:0.328464">sources</tspan></text>
-    <rect
-       style="fill:#c35944;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
-       id="rect3246"
-       width="124.93759"
-       height="101.4155"
-       x="427.79361"
-       y="529.96124"
-       ry="5.2916665"
-       transform="matrix(0.85056653,0,0,0.85056653,144.19418,10.182103)" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.31385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 960.94761,261.191 v 20.861 h 89.73819"
-       id="path14507"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.27886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1051.0114,300.49091 V 259.80375"
-       id="path15485"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
-       x="459.3602"
-       y="523.22589"
-       id="text15998"
-       transform="matrix(1.2414404,0,0,1.2414404,-56.320933,-178.61001)"><tspan
-         x="459.3602"
-         y="523.22589"><tspan
-           style="font-weight:bold">BRAZILIAN VARIANT
-</tspan></tspan><tspan
-         x="459.3602"
-         y="528.19885"><tspan
-           style="font-size:3.97835px;fill:#ffffff">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="533.17181"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">: P.1
-</tspan></tspan><tspan
-         x="459.3602"
-         y="538.14478"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">: 20J / 501Y.V3
-</tspan></tspan><tspan
-         x="459.3602"
-         y="543.11774"><tspan
-           style="font-size:3.97835px;fill:#ffffff">Date of First Report:  15th December, 2020
-</tspan></tspan><tspan
-         x="459.3602"
-         y="548.0907"><tspan
-           style="font-size:3.97835px;fill:#ffffff">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="553.06366"><tspan
-           style="font-size:3.97835px;fill:#ffffff">Although it shares some of the key mutations </tspan></tspan><tspan
-         x="459.3602"
-         y="558.03662"><tspan
-           style="font-size:3.97835px;fill:#ffffff">that define the other two variants of concern </tspan></tspan><tspan
-         x="459.3602"
-         y="563.00958"><tspan
-           style="font-size:3.97835px;fill:#ffffff">as being more transmissible and possibly </tspan></tspan><tspan
-         x="459.3602"
-         y="567.98254"><tspan
-           style="font-size:3.97835px;fill:#ffffff">more resistant against certain treatments or </tspan></tspan><tspan
-         x="459.3602"
-         y="572.95551"><tspan
-           style="font-size:3.97835px;fill:#ffffff">vaccinations, empirical evidence is still being </tspan></tspan><tspan
-         x="459.3602"
-         y="577.92847"><tspan
-           style="font-size:3.97835px;fill:#ffffff">gathered in regards to its impact. </tspan></tspan></text>
-    <g
-       id="g14412"
-       transform="matrix(1.2414404,0,0,1.2414404,-60.229738,-15.992166)">
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 425.69592,325.085 v 15.19251 h -77.2985"
-         id="path16002"
-         sodipodi:nodetypes="ccc" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:1.03014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 348.42423,357.48508 V 324.71092"
-         id="path16004"
-         sodipodi:nodetypes="cc" />
-    </g>
-    <text
-       xml:space="preserve"
-       id="text16008"
-       style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:4.23333px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect16010);text-align:end;white-space:pre;word-spacing:0px;"
-       transform="matrix(1.2414404,0,0,1.2414404,-839.50591,-70.339514)"
-       x="62.431778"
-       y="0"><tspan
-         x="946.42818"
-         y="366.78964"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">Manaus, Brazil</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">
-</tspan></tspan><tspan
-         x="904.7026"
-         y="372.08129"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">An analysis of blood donors in Manaus </tspan></tspan><tspan
-         x="891.41143"
-         y="377.37295"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">indicated </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">that 76% of the population had been </tspan></tspan><tspan
-         x="892.92865"
-         y="382.6646"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">infected </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">with SARS-CoV-2 by October 2020. </tspan></tspan><tspan
-         x="890.35516"
-         y="387.95626"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">Yet, in </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">January 2021, Manaus suffered another </tspan></tspan><tspan
-         x="889.11906"
-         y="393.24792"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">outbreak with some individuals being reinfected </tspan></tspan><tspan
-         x="897.44516"
-         y="398.53957"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">with the new variant. The new P.1 lineage is </tspan></tspan><tspan
-         x="895.6799"
-         y="403.83123"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">suspected to be better at evading immunity.</tspan></tspan></text>
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.31385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 779.0108,434.71186 v -25.8245 h 51.15114"
-       id="path16170"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.27886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 830.19523,429.40213 V 388.71497"
-       id="path16176"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       id="text13273"
-       style="-inkscape-font-specification:SF Pro Display;font-family:SF Pro Display;font-size:16.93333333px;letter-spacing:0px;line-height:1.25;shape-inside:url(#rect13275);white-space:pre;word-spacing:0px;" />
-    <text
-       xml:space="preserve"
-       id="text2197"
-       style="font-family:'SF Pro Display';font-size:4.58611128px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'SF Pro Display Light';font-weight:300;white-space:pre;shape-inside:url(#rect2199);text-align:justify;" />
-    <rect
-       style="fill:#a9c323;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
-       id="rect2209"
-       width="124.93759"
-       height="107.85594"
-       x="427.79361"
-       y="529.96124"
-       ry="5.2916665"
-       transform="matrix(0.85056653,0,0,0.85056653,377.19463,17.851385)" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
-       x="459.3602"
-       y="523.22589"
-       id="text2231"
-       transform="matrix(1.2414404,0,0,1.2414404,176.67951,-170.94073)"><tspan
-         x="459.3602"
-         y="523.22589"><tspan
-           style="font-weight:bold">SOUTH AFRICAN VARIANT
-</tspan></tspan><tspan
-         x="459.3602"
-         y="528.19885"><tspan
-           style="font-size:3.97835px;fill:#ffffff">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="533.17181"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">: B.1.351
-</tspan></tspan><tspan
-         x="459.3602"
-         y="538.14478"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">: 20H / 501.V2
-</tspan></tspan><tspan
-         x="459.3602"
-         y="543.11774"><tspan
-           style="font-size:3.97835px;fill:#ffffff">Date of First Report:  8th October, 2020
-</tspan></tspan><tspan
-         x="459.3602"
-         y="548.0907"><tspan
-           style="font-size:3.97835px;fill:#ffffff">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="553.06366"><tspan
-           style="font-size:3.97835px;fill:#ffffff">The second identified Variant of Concern, it </tspan></tspan><tspan
-         x="459.3602"
-         y="558.03662"><tspan
-           style="font-size:3.97835px;fill:#ffffff">was announced in December 2020.There is </tspan></tspan><tspan
-         x="459.3602"
-         y="563.00958"><tspan
-           style="font-size:3.97835px;fill:#ffffff">evidence of increased transmission (50%), as </tspan></tspan><tspan
-         x="459.3602"
-         y="567.98254"><tspan
-           style="font-size:3.97835px;fill:#ffffff">well as of reduced efficacy of specific </tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">medical </tspan></tspan><tspan
-         x="459.3602"
-         y="572.95551"><tspan
-           style="font-size:3.97835px;fill:#ffffff">treatments, such as convalescent </tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">plasma. It </tspan></tspan><tspan
-         x="459.3602"
-         y="577.92847"><tspan
-           style="font-size:3.97835px;fill:#ffffff">does not seem to cause more </tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">severe or fatal </tspan></tspan><tspan
-         x="459.3602"
-         y="582.90143"><tspan
-           style="font-size:3.97835px;fill:#ffffff">disease.</tspan></tspan></text>
-    <rect
-       style="fill:#1d7097;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
-       id="rect3163"
-       width="124.93759"
-       height="115.74976"
-       x="427.79361"
-       y="529.96124"
-       ry="5.2916665"
-       transform="matrix(0.85056653,0,0,0.85056653,140.64809,-271.37577)" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:75.5351;fill:#ffffff;stroke-width:0.264583"
-       x="459.3602"
-       y="523.22589"
-       id="text3175"
-       transform="matrix(1.2414404,0,0,1.2414404,-59.867031,-460.16789)"><tspan
-         x="459.3602"
-         y="523.22589"><tspan
-           style="font-weight:bold">UNITED KINGDOM VARIANT
-</tspan></tspan><tspan
-         x="459.3602"
-         y="528.19885"><tspan
-           style="font-size:3.97835px;fill:#ffffff">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="533.17181"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Pango Lineage</tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">: B.1.1.7
-</tspan></tspan><tspan
-         x="459.3602"
-         y="538.14478"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Medium'">Nextstrain Name</tspan><tspan
-           style="font-size:3.97835px;fill:#ffffff">: 20I / 501Y.V1
-</tspan></tspan><tspan
-         x="459.3602"
-         y="543.11774"><tspan
-           style="font-size:3.97835px;fill:#ffffff">Date of First Report:  20th September, 2020
-</tspan></tspan><tspan
-         x="459.3602"
-         y="548.0907"><tspan
-           style="font-size:3.97835px;fill:#ffffff">
-</tspan></tspan><tspan
-         x="459.3602"
-         y="553.06366"><tspan
-           style="font-size:3.97835px;fill:#ffffff">The first identified Variant of Concern, it was </tspan></tspan><tspan
-         x="459.3602"
-         y="558.03662"><tspan
-           style="font-size:3.97835px;fill:#ffffff">announced on the 14th December 2020, </tspan></tspan><tspan
-         x="459.3602"
-         y="563.00958"><tspan
-           style="font-size:3.97835px;fill:#ffffff">having initally expanded in the South East of </tspan></tspan><tspan
-         x="459.3602"
-         y="567.98254"><tspan
-           style="font-size:3.97835px;fill:#ffffff">the country. Evidence exists of 50% increased </tspan></tspan><tspan
-         x="459.3602"
-         y="572.95551"><tspan
-           style="font-size:3.97835px;fill:#ffffff">transmission, as well as an increase of fatality </tspan></tspan><tspan
-         x="459.3602"
-         y="577.92847"><tspan
-           style="font-size:3.97835px;fill:#ffffff">rates. However, it does not seem to have </tspan></tspan><tspan
-         x="459.3602"
-         y="582.90143"><tspan
-           style="font-size:3.97835px;fill:#ffffff">significantly increased resistance to </tspan></tspan><tspan
-         x="459.3602"
-         y="587.87439"><tspan
-           style="font-size:3.97835px;fill:#ffffff">vaccination or current medical treatments.</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text16008-6"
-       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16010-3);"
-       transform="matrix(1.2414404,0,0,1.2414404,-47.47598,-194.59048)"
-       x="-20.318657"
-       y="0"><tspan
-         x="888.82031"
-         y="366.78964"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">January 10th, Japan
-</tspan></tspan><tspan
-         x="888.82031"
-         y="372.08129"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">Four travellers arriving in Japan from Brazil rang </tspan></tspan><tspan
-         x="888.82031"
-         y="377.37295"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">alarms after testing positive for COVID-19. A </tspan></tspan><tspan
-         x="888.82031"
-         y="382.6646"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">new strain was detected in these travellers, </tspan></tspan><tspan
-         x="888.82031"
-         y="387.95626"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">sharing similar key mutations to the UK and </tspan></tspan><tspan
-         x="888.82031"
-         y="393.24792"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">South African strains. This led the brazillian </tspan></tspan><tspan
-         x="888.82031"
-         y="398.53957"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">government to later identify a new strain </tspan></tspan><tspan
-         x="888.82031"
-         y="403.83123"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">originating from the country.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">.</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7916,6 +7814,116 @@
        id="path6"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;stroke-width:0.0104374;filter:url(#filter3754)" />
+    <g
+       id="g2967"
+       transform="translate(0,6.8791669)"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1.31385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 955.26636,261.191 v 20.861 h 95.41944"
+         id="path14507"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1.13658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1051.0114,298.29589 V 264.32292"
+         id="path15485"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g14412"
+       transform="matrix(1.2414404,0,0,1.2414404,-60.229737,-15.992166)"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 425.69592,325.085 v 15.19251 h -77.2985"
+         id="path16002"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:1.03014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 348.42423,357.48508 V 324.71092"
+         id="path16004"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text16008"
+       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16010);display:inline;"
+       transform="matrix(1.2414404,0,0,1.2414404,-840.03507,-67.24065)"
+       x="62.431778"
+       y="0"><tspan
+         x="945.8216"
+         y="366.55432"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">Manaus, Brazil
+</tspan></tspan><tspan
+         x="894.08751"
+         y="371.52725"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">An analysis of blood donors in Manaus indicated </tspan></tspan><tspan
+         x="891.76421"
+         y="376.50018"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">that 76% of the population had been infected with </tspan></tspan><tspan
+         x="896.35641"
+         y="381.47311"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">SARS-CoV-2 by October 2020. Yet, in January </tspan></tspan><tspan
+         x="898.62531"
+         y="386.44605"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">2021, Manaus suffered another outbreak with </tspan></tspan><tspan
+         x="896.6983"
+         y="391.41898"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">some individuals being reinfected with the new </tspan></tspan><tspan
+         x="897.56079"
+         y="396.39191"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">variant. The new P.1 lineage is suspected to be </tspan></tspan><tspan
+         x="928.28422"
+         y="401.36484"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">better at evading immunity.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text16008-1"
+       style="font-size:3.97835px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16010-0);display:inline"
+       transform="matrix(1.2414404,0,0,1.2414404,-47.150009,-184.50767)"
+       x="-16.904057"
+       y="0"><tspan
+         x="888.82031"
+         y="366.55432"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">January 10th 2021, Japan
+</tspan></tspan><tspan
+         x="888.82031"
+         y="371.52725"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">Four travellers arriving in Japan from Brazil rang </tspan></tspan><tspan
+         x="888.82031"
+         y="376.50018"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">alarms after testing positive for COVID-19. A new </tspan></tspan><tspan
+         x="888.82031"
+         y="381.47311"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">variant was detected in these travellers, sharing </tspan></tspan><tspan
+         x="888.82031"
+         y="386.44605"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">similar key mutations to the UK and South African </tspan></tspan><tspan
+         x="888.82031"
+         y="391.41898"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">variants. This led the brazillian government to later </tspan></tspan><tspan
+         x="888.82031"
+         y="396.39191"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.97835px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">identify the new variant originating from the country.</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:#b3b3b3;fill-opacity:0.783559;stroke:none;stroke-width:1.25947;stroke-linecap:round"
+       id="rect13193"
+       width="166.99043"
+       height="24.597631"
+       x="1020.7015"
+       y="811.52881"
+       ry="0.55257708" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.0567px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.188386"
+       x="1126.0887"
+       y="826.62"
+       id="text13143"><tspan
+         sodipodi:role="line"
+         id="tspan13141"
+         x="1126.0887"
+         y="826.62"
+         style="fill:#ffffff;stroke-width:0.188386">sources</tspan></text>
   </g>
   <script
      id="mesh_polyfill"
