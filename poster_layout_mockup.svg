@@ -13,7 +13,7 @@
    viewBox="0 0 1189 841"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (16c81841c1, 2021-03-16)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="poster_layout_mockup.svg"
    inkscape:export-filename="/home/fsx/nova/Spring 2021/DV/DataVis2021/poster_gray_iter5.png"
    inkscape:export-xdpi="96"
@@ -3029,9 +3029,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627418"
-     inkscape:cx="2714.8018"
-     inkscape:cy="1722.8218"
+     inkscape:zoom="0.32000001"
+     inkscape:cx="3106.7772"
+     inkscape:cy="1119.3555"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
@@ -3044,9 +3044,9 @@
      inkscape:snap-text-baseline="false"
      inkscape:snap-page="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false"
      inkscape:snap-bbox="false"
@@ -3150,10 +3150,11 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">proportion of cases causes by a specific strain. </tspan></tspan><tspan
            x="888.82031"
            y="424.99786"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">Countries with a lighter color represent lower </tspan></tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">Countries with a lighter color represent lower </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">prevalence </tspan></tspan><tspan
            x="888.82031"
            y="430.28951"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">prevalence of variants of concern.</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display'">of variants of concern.</tspan></tspan></text>
       <g
          id="g2901"
          transform="translate(51.81489,18.196002)">
@@ -3232,11 +3233,11 @@
            transform="matrix(0.88782548,0,0,0.89781026,191.83874,-165.22801)"
            x="38.423176"
            y="0"><tspan
-             x="893.07866"
+             x="892.93913"
              y="366.1385"><tspan
-               dx="0 0 0 0 0 0 0 0 0 0 0.39118272 -0.39118272 0 0.3911826"
+               dx="0 0 0 0 0 0 0 0 0 0 0.39118308 -0.3911829 0 0.39118248"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end">Proportion of </tspan></tspan><tspan
-             x="894.31364"
+             x="894.38599"
              y="370.54823"><tspan
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end">Sequences</tspan></tspan></text>
         <text
@@ -5784,23 +5785,23 @@
        y="0"><tspan
          x="31.935547"
          y="189.04562"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.0238783 0 0 0 0 0 0 0 0 0 0 0 1.0238745 0 0 0 1.0238745 0 0 0 0 0 0 0 1.0238898"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16897798 0 0 0 0 0 0 0 0 0 0 0 0.16898179 0 0 0 0.16898179 0 0 0 0 0 0 0 0.16898179"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">Conversations surrounding the concern for </tspan></tspan><tspan
          x="31.935547"
          y="201.39285"><tspan
-           dx="0 0 0 0 0 0 0 0 0 5.2441196 0 0 0 0 0 0 0 0 5.2441196 0 0 5.2441196 0 0 0 0 0 0 0 0 0 0 0 5.2441196"
+           dx="0 0 0 0 0 0 0 0 0 4.6436405 0 0 0 0 0 0 0 0 4.6436443 0 0 4.6436367 0 0 0 0 0 0 0 0 0 0 0 4.6436367"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">emerging variants of SARS-CoV-2, the </tspan></tspan><tspan
          x="31.935547"
          y="213.74008"><tspan
-           dx="0 0 0 0 0 0 3.6242392 0 0 0 0 3.6242392 0 0 0 0 0 0 3.6242392 0 0 0 0 0 0 0 0 0 3.6242392 0 0 0 0 3.6242316"
+           dx="0 0 0 0 0 0 3.201731 0 0 0 0 3.201731 0 0 0 0 0 0 3.2017272 0 0 0 0 0 0 0 0 0 3.2017348 0 0 0 0 3.2017272"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">virus that causes COVID-19, have been </tspan></tspan><tspan
          x="31.935547"
          y="226.0873"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 1.7758276 0 0 0 0 0 0 0 0 0 1.7758276 0 0 0 0 0 1.7758276 0 0 0 1.7758276 0 0 0 0 1.7758276 0 0 1.7758276"
+           dx="0 0 0 0 0 0 0 0 0 0 0 1.2774413 0 0 0 0 0 0 0 0 0 1.2774413 0 0 0 0 0 1.2774336 0 0 0 1.2774413 0 0 0 0 1.2774413 0 0 1.277426"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">increasing rampantly since the turn of the </tspan></tspan><tspan
          x="31.935547"
          y="238.43453"><tspan
-           dx="0 0 0 0 0 1.0572684 0 0 0 0 0 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572684 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276 1.0572608 1.057276"
+           dx="0 0 0 0 0 0.74047685 0 0 0 0 0 0.74047685 0.74047685 0.74047685 0.74047685 0.74047303 0.74047685 0.74047303 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74046922 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74047685 0.74046922 0.74047685 0.74048448 0.74046922 0.74048448 0.74046922 0.74046922 0.74048448 0.74046922 0.74048448 0.74046922 0.74048448 0.74046922 0.74048448 0.74046922 0.74046922 0.74048448"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">year 2021.                                           
 </tspan></tspan><tspan
          x="31.935547"
@@ -5809,23 +5810,23 @@
 </tspan></tspan><tspan
          x="31.935547"
          y="263.12899"><tspan
-           dx="0 0 0 0 0 2.4901106 0 0 0 0 0 0 0 0 0 0 0 2.4901145 0 0 0 0 0 0 0 0 2.4901068 0 0 0 2.4901145"
+           dx="0 0 0 0 0 1.5146334 0 0 0 0 0 0 0 0 0 0 0 1.5146315 0 0 0 0 0 0 0 0 1.5146315 0 0 0 1.5146315"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">This infographic explores the terminology, </tspan></tspan><tspan
          x="31.935547"
          y="275.47622"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.33095 0 0 0 2.33095 0 0 0 0 0 0 0 2.3309424 0 0 0 0 0 0 0 0 0 2.3309424"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.6315978 0 0 0 1.6315901 0 0 0 0 0 0 0 1.6315978 0 0 0 0 0 0 0 0 0 1.6315978"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">understanding, and general knowledge of </tspan></tspan><tspan
          x="31.935547"
          y="287.82345"><tspan
-           dx="0 0 0 0 0 8.9772282 0 0 0 0 0 0 0 0 8.9772282 0 0 0 0 0 0 0 0 8.9772282 0 0 0 0 0 0 0 0 8.9772282"
+           dx="0 0 0 0 0 8.2718449 0 0 0 0 0 0 0 0 8.2718487 0 0 0 0 0 0 0 0 8.2718487 0 0 0 0 0 0 0 0 8.2718563"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">this emerging subject, tracking and </tspan></tspan><tspan
          x="31.935547"
          y="300.17068"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 2.3625052 0 0 0 2.3625052 0 0 0 0 0 0 2.3625052 0 0 0 0 0 0 0 2.3625052 0 0 0 0 0 0 0 2.3624976"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 1.6207068 0 0 0 1.6207106 0 0 0 0 0 0 1.6207106 0 0 0 0 0 0 0 1.6207106 0 0 0 0 0 0 0 1.6207182"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">visualizing the global growth, spread, and </tspan></tspan><tspan
          x="31.935547"
          y="312.51791"><tspan
-           dx="0 0 0 0 0 0 0 0 0 6.3637753 0 0 0 0 0 0 6.3637791 0 0 6.3637791 0 0 0 6.3637791 0 0 0 0 0 6.3637791"
+           dx="0 0 0 0 0 0 0 0 0 5.6798573 0 0 0 0 0 0 5.6798534 0 0 5.6798611 0 0 0 5.6798534 0 0 0 0 0 5.6798611"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:justify;text-anchor:start">probable impact of the three current </tspan></tspan><tspan
          x="31.935547"
          y="324.86514"><tspan
@@ -7603,12 +7604,12 @@
        transform="matrix(0.85056653,0,0,0.85056653,144.19418,10.182103)" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.31385;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 999.53465,256.17559 v 18.86059 h 51.15115"
+       d="m 960.94761,261.191 v 20.861 h 89.73819"
        id="path14507"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:1.27886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1050.7191,296.39835 V 255.71119"
+       d="M 1051.0114,300.49091 V 259.80375"
        id="path15485"
        sodipodi:nodetypes="cc" />
     <text
@@ -7683,30 +7684,33 @@
        transform="matrix(1.2414404,0,0,1.2414404,-839.50591,-70.339514)"
        x="62.431778"
        y="0"><tspan
-         x="944.15028"
+         x="946.42818"
          y="366.78964"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">Manaus, Brazil</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">
 </tspan></tspan><tspan
-         x="889.10046"
+         x="904.7026"
          y="372.08129"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">An analysis of blood donors in Manaus indicated </tspan></tspan><tspan
-         x="894.68978"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">An analysis of blood donors in Manaus </tspan></tspan><tspan
+         x="891.41143"
          y="377.37295"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">that 76% of the population had been infected </tspan></tspan><tspan
-         x="898.20377"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">indicated </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">that 76% of the population had been </tspan></tspan><tspan
+         x="892.92865"
          y="382.6646"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">with SARS-CoV-2 by October 2020. Yet, in </tspan></tspan><tspan
-         x="903.41275"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">infected </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">with SARS-CoV-2 by October 2020. </tspan></tspan><tspan
+         x="890.35516"
          y="387.95626"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">Yet, in </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">January 2021, Manaus suffered another </tspan></tspan><tspan
-         x="890.34896"
+         x="889.11906"
          y="393.24792"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">outbreak with some individuals being reinfected </tspan></tspan><tspan
-         x="898.66679"
+         x="897.44516"
          y="398.53957"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">with the new variant. The new P.1 lineage is </tspan></tspan><tspan
-         x="896.91393"
+         x="895.6799"
          y="403.83123"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:end;text-anchor:end;fill:#ffffff">suspected to be better at evading immunity.</tspan></tspan></text>
     <path
@@ -7726,7 +7730,7 @@
     <text
        xml:space="preserve"
        id="text2197"
-       style="font-family:'SF Pro Display';font-size:4.58611128px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'SF Pro Display Light';font-weight:300;white-space:pre;shape-inside:url(#rect2199);text-align:justify" />
+       style="font-family:'SF Pro Display';font-size:4.58611128px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'SF Pro Display Light';font-weight:300;white-space:pre;shape-inside:url(#rect2199);text-align:justify;" />
     <rect
        style="fill:#a9c323;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
        id="rect2209"
@@ -7780,16 +7784,19 @@
            style="font-size:3.97835px;fill:#ffffff">evidence of increased transmission (50%), as </tspan></tspan><tspan
          x="459.3602"
          y="567.98254"><tspan
-           style="font-size:3.97835px;fill:#ffffff">well as of reduced efficacy of specific </tspan></tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">well as of reduced efficacy of specific </tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">medical </tspan></tspan><tspan
          x="459.3602"
          y="572.95551"><tspan
-           style="font-size:3.97835px;fill:#ffffff">medical treatments, such as convalescent </tspan></tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">treatments, such as convalescent </tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">plasma. It </tspan></tspan><tspan
          x="459.3602"
          y="577.92847"><tspan
-           style="font-size:3.97835px;fill:#ffffff">plasma. It does not seem to cause more </tspan></tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">does not seem to cause more </tspan><tspan
+           style="font-size:3.97835px;fill:#ffffff">severe or fatal </tspan></tspan><tspan
          x="459.3602"
          y="582.90143"><tspan
-           style="font-size:3.97835px;fill:#ffffff">severe or fatal disease.</tspan></tspan></text>
+           style="font-size:3.97835px;fill:#ffffff">disease.</tspan></tspan></text>
     <rect
        style="fill:#1d7097;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;filter:url(#filter4574)"
        id="rect3163"
@@ -7859,36 +7866,36 @@
     <text
        xml:space="preserve"
        id="text16008-6"
-       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16010-3)"
-       transform="matrix(1.2414404,0,0,1.2414404,-46.891328,-201.6063)"
+       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect16010-3);"
+       transform="matrix(1.2414404,0,0,1.2414404,-47.47598,-194.59048)"
        x="-20.318657"
        y="0"><tspan
          x="888.82031"
          y="366.78964"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">Manaus, Brazil</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">January 10th, Japan
 </tspan></tspan><tspan
          x="888.82031"
          y="372.08129"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">An analysis of blood donors in Manaus indicated </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">Four travellers arriving in Japan from Brazil rang </tspan></tspan><tspan
          x="888.82031"
          y="377.37295"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">that 76% of the population had been infected </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">alarms after testing positive for COVID-19. A </tspan></tspan><tspan
          x="888.82031"
          y="382.6646"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">with SARS-CoV-2 by October 2020. Yet, in </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">new strain was detected in these travellers, </tspan></tspan><tspan
          x="888.82031"
          y="387.95626"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">January 2021, Manaus suffered another </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">sharing similar key mutations to the UK and </tspan></tspan><tspan
          x="888.82031"
          y="393.24792"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">outbreak with some individuals being reinfected </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">South African strains. This led the brazillian </tspan></tspan><tspan
          x="888.82031"
          y="398.53957"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">with the new variant. The new P.1 lineage is </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">government to later identify a new strain </tspan></tspan><tspan
          x="888.82031"
          y="403.83123"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">suspected to be better at evading immunity.</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">originating from the country.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;text-anchor:start;fill:#ffffff">.</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7900,12 +7907,12 @@
      inkscape:label="Overlays"
      style="display:inline">
     <path
-       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.05833333;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:6.35, 6.34999999999999964;stroke-dashoffset:0;filter:url(#filter3705)"
-       d="M 493.96803,405.35023 C 679.61433,222.57885 997.54882,253.49494 997.54882,253.49494"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.35, 6.35;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3705)"
+       d="M 493.96803,405.35023 C 562.57041,315.35741 906.0681,239.88389 1022.9812,260.21844"
        id="path2237"
        sodipodi:nodetypes="cc" />
     <path
-       d="m 952.42268,251.95113 q -0.62136,0.66217 -2.8196,0.73206 l -3.54077,0.11257 -4.23961,6.69923 -0.0352,0.0528 q -0.1,0.10656 -0.23277,0.11078 l -0.94421,0.03 q -0.13278,0.004 -0.23934,-0.0958 -0.15983,-0.14999 -0.0922,-0.34412 l 2.02125,-6.33334 -3.61454,0.11491 q -1.18226,2.29712 -1.28225,2.40367 -0.1,0.10656 -0.23277,0.11078 l -0.94421,0.03 q -0.13278,0.004 -0.23933,-0.0958 -0.137,-0.12855 -0.0988,-0.32176 l 0.82006,-3.23814 -1.0241,-3.17951 q -0.0651,-0.18992 0.0706,-0.33453 0.1,-0.10656 0.23277,-0.11078 l 0.95135,-0.0376 q 0.13278,-0.004 0.23934,0.0958 0.10655,0.1 1.43234,2.31737 l 3.61454,-0.11492 -2.41947,-6.19216 q -0.0799,-0.18944 0.0701,-0.34928 0.1,-0.10656 0.23277,-0.11077 l 0.94421,-0.03 q 0.13278,-0.004 0.23933,0.0958 0.0304,0.0286 0.0385,0.0505 l 4.65659,6.41639 3.54077,-0.11257 q 2.19824,-0.0699 2.86041,0.55147 0.24355,0.22855 0.25317,0.53099 0.01,0.30244 -0.21893,0.546 z"
+       d="m 964.40805,257.50532 q -0.62136,0.66217 -2.8196,0.73206 l -3.54077,0.11257 -4.23961,6.69923 -0.0352,0.0528 q -0.1,0.10656 -0.23277,0.11078 l -0.94421,0.03 q -0.13278,0.004 -0.23934,-0.0958 -0.15983,-0.14999 -0.0922,-0.34412 l 2.02125,-6.33334 -3.61454,0.11491 q -1.18226,2.29712 -1.28225,2.40367 -0.1,0.10656 -0.23277,0.11078 l -0.94421,0.03 q -0.13278,0.004 -0.23933,-0.0958 -0.137,-0.12855 -0.0988,-0.32176 l 0.82006,-3.23814 -1.0241,-3.17951 q -0.0651,-0.18992 0.0706,-0.33453 0.1,-0.10656 0.23277,-0.11078 l 0.95135,-0.0376 q 0.13278,-0.004 0.23934,0.0958 0.10655,0.1 1.43234,2.31737 l 3.61454,-0.11492 -2.41947,-6.19216 q -0.0799,-0.18944 0.0701,-0.34928 0.1,-0.10656 0.23277,-0.11077 l 0.94421,-0.03 q 0.13278,-0.004 0.23933,0.0958 0.0304,0.0286 0.0385,0.0505 l 4.65659,6.41639 3.54077,-0.11257 q 2.19824,-0.0699 2.86041,0.55147 0.24355,0.22855 0.25317,0.53099 0.01,0.30244 -0.21893,0.546 z"
        id="path6"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;stroke-width:0.0104374;filter:url(#filter3754)" />
