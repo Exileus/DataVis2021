@@ -2895,9 +2895,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52249847"
-     inkscape:cx="2445.9226"
-     inkscape:cy="2752.3791"
+     inkscape:zoom="0.26124924"
+     inkscape:cx="1996.6091"
+     inkscape:cy="1641.2376"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
@@ -5314,13 +5314,13 @@
        id="rect15487-7"
        width="183.48972"
        height="107.47402"
-       x="975.13647"
-       y="148.49329" />
+       x="41.99968"
+       y="709.44897" />
     <text
        xml:space="preserve"
        id="text14515-3"
        style="font-size:4.23333px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14517-8);"
-       transform="translate(163.13268,-200.62957)"><tspan
+       transform="translate(-770.00411,360.32614)"><tspan
          x="888.82031"
          y="366.696"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Countries are colored by the most prevalent of the </tspan></tspan><tspan
@@ -5369,7 +5369,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">prevalence of variants of concern.</tspan></tspan></text>
     <g
        id="g2901"
-       transform="translate(-0.07575895,-1.4866826)">
+       transform="translate(-933.21255,559.46902)">
       <rect
          style="fill:#84c1e1;fill-opacity:1;stroke-width:0.0808398"
          id="rect2835"
