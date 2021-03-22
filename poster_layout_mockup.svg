@@ -3267,6 +3267,12 @@
          result="composite2"
          id="feComposite14004" />
     </filter>
+    <rect
+       x="31.93639"
+       y="179.9304"
+       width="195.71367"
+       height="91.415459"
+       id="rect2381" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3275,9 +3281,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29688928"
-     inkscape:cx="2771.3062"
-     inkscape:cy="2495.6903"
+     inkscape:zoom="0.41986485"
+     inkscape:cx="2956.4796"
+     inkscape:cy="2253.828"
      inkscape:document-units="mm"
      inkscape:current-layer="layer10"
      inkscape:document-rotation="0"
@@ -8803,16 +8809,66 @@
        xml:space="preserve"
        id="text9262"
        style="font-size:8.46667px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9264);fill:#ffffff;"
-       transform="translate(916.29001,570.70984)"
+       transform="translate(916.29001,566.47648)"
        x="0"
        y="0"><tspan
          x="31.935547"
-         y="187.74334"><tspan>REFERENCES</tspan></tspan></text>
+         y="187.74334"><tspan>REFERENCES &amp; SOURCES</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text9270"
-       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9272);display:inline;fill:#ffffff;"
-       transform="translate(916.28175,584.28035)"
+       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect9272);display:inline;fill:#ffffff;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+       transform="translate(916.28175,580.04699)"
+       x="0"
+       y="0"><tspan
+         x="31.935547"
+         y="183.83651"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="189.12817"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="194.41982"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="199.71148"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="205.00314"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="210.29479"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="215.58645"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="220.87811"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="226.16976"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="231.46142"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">
+</tspan></tspan><tspan
+         x="31.935547"
+         y="236.75308"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';text-align:justify;text-anchor:start">DATASET SOURCE: GISAID.org                                         </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2379"
+       style="font-size:4.23333px;line-height:1.25;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2381);display:inline;fill:#ffffff;"
+       transform="translate(916.28175,580.04699)"
        x="0"
        y="0"><tspan
          x="31.935547"
