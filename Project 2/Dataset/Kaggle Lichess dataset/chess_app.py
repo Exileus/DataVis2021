@@ -14,7 +14,6 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-
 # Read the .csv file with the preprocessed data.
 df = pd.read_csv("chess_app.csv")
 
@@ -26,8 +25,7 @@ app = dash.Dash(__name__,external_stylesheets=external_stylesheets)
 
 # Placeholder.
 
-fig = px.pie(df["victory_status"])
-fig.show()
+fig = px.pie(df,names="victory_status")
 
 app.layout = html.Div(
     children=[html.H1(children="Hello Dean"),
