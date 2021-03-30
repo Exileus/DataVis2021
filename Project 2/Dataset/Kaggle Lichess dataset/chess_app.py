@@ -24,13 +24,12 @@ app = dash.Dash(__name__,external_stylesheets=external_stylesheets)
 
 
 # Placeholder.
-
 fig = px.pie(df,names="victory_status")
 
 
 app.layout = html.Div(
     children=[html.H1(children="Hello Dean",style={'textAlign':'center','color':'#7FDBFF'}),
-              html.Div(children="""Dash: a web application...."""),
+             html.Div(children="""Dash: a web application...."""),
               dcc.Graph(id="Victory Status",figure=fig)
               ])
 
