@@ -6,6 +6,7 @@
 
 ## Imports
 import dash
+import ast
 
 import dash_core_components as dcc
 import dash_html_components as html
@@ -15,19 +16,22 @@ import numpy as np
 import plotly.express as px
 
 # Read the .csv file with the preprocessed data.
-df = pd.read_csv("chess_app.csv")
+df = pd.read_csv("chess_app.csv",dtype={"pawns":int,"knights":int,"bishops":int,
+                                         "rooks":int,"queens":int},
+                 converters={"wKing_sqr": ast.literal_eval,"bKing_sqr": ast.literal_eval})
 
 # Define function to output an 8*8 dataframe based on a vector of coordinates.
 def board_output(vector):
     
     brd = np.zeros((8,8))
-    for row,col in vector:
-        brd(row,col) += 1
+    for tup in vector:
+        brd[tup] += 1
     
     return pd.DataFrame(brd)
 
 ## Optionally, produces a .csv of such a dataframe.
 # board_output(wKing_sqr).to_csv("wKing_Heatmap.csv")
+
 
 # Set stylesheets and app. 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
