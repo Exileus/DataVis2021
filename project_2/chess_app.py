@@ -45,7 +45,7 @@ app.title = "Chess Analytics"
 fig = px.imshow(df_king, color_continuous_scale=px.colors.sequential.Burgyl, labels=dict(
     x="", y="", color="No of checkmates"),
     x=['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'],
-    y=['1', '2', '3', '4', '5', '6', '7', '8'])
+    y=['1', '2', '3', '4', '5', '6', '7', '8'][::-1])
 
 # Defining app layout
 app.layout = html.Div([
