@@ -40,12 +40,14 @@ def board_output(vector):
 
 # Optionally, produces a .csv of such a dataframe.
 # board_output(wKing_sqr).to_csv("wKing_Heatmap.csv")
-df_king = board_output(df["wKing_sqr"])
-
+df = board_output(df["wKing_sqr"])
+print(df)
 # FILLER STUFF ~ LET'S KEEP THIS FILE CLEAN, have other .py files with everything!
 x_coords = ["A", "B", "C", "D", "E", "F", "G", "H"]
 replacer = {i+1: x for i, x in enumerate(x_coords)}
-
+df = df.stack().reset_index().rename(columns={"level_0":"rows","level_1":"cols",0:"freq"})
+df.iloc[:,0:2] = df.iloc[:,0:2].apply(lambda x:x+1)
+df["letters"] = df.cols.replace(replacer)
 
 # Set stylesheets and app.
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
@@ -54,7 +56,7 @@ app.title = "Chess Analytics"
 
 chessboard = getChessboard()
 
-
+chessboard.add_trace(getHeatmap(dataframe=df))
 
 # Defining app layout
 app.layout = html.Div(

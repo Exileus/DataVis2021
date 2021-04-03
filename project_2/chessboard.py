@@ -39,7 +39,7 @@ def getChessboard(dimensions: int = 500, margin: int = 50):
     return chessboard
 
 
-def getHeatmap(chessboard: go.Figure, dataframe: pd.DataFrame):
+def getHeatmap(dataframe: pd.DataFrame):
     """DataFrame must have columns named:
     rows => 1 to 8
     letters => A to H
