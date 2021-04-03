@@ -17,7 +17,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objs as go
-from chessboard import getChessboard, getHeatmap
+from chessboard import *
 from styles import *
 
 # Read the .csv file with the preprocessed data.
@@ -27,21 +27,12 @@ df = pd.read_csv(
     converters={"wKing_sqr": ast.literal_eval, "bKing_sqr": ast.literal_eval},
 )
 
-# Define function to output an 8*8 dataframe based on a vector of coordinates.
-
-
-def board_output(vector):
-    brd = np.zeros((8, 8))
-    for tup in vector:
-        brd[tup] += 1
-
-    return pd.DataFrame(brd)
 
 
 # Optionally, produces a .csv of such a dataframe.
 # board_output(wKing_sqr).to_csv("wKing_Heatmap.csv")
 df = board_output(df["wKing_sqr"])
-print(df)
+
 # FILLER STUFF ~ LET'S KEEP THIS FILE CLEAN, have other .py files with everything!
 x_coords = ["A", "B", "C", "D", "E", "F", "G", "H"]
 replacer = {i+1: x for i, x in enumerate(x_coords)}
@@ -88,7 +79,7 @@ app.layout = html.Div(
                 html.Div(
                     [
                         dcc.Graph(
-                            id="Victory Status",
+                            id="id_chessboard",
                             figure=chessboard,
                             config={
                                 "displayModeBar": False,

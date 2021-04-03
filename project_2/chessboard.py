@@ -1,6 +1,14 @@
 import plotly.graph_objects as go
 import pandas as pd
+import numpy as np
 
+# Define function to output an 8*8 dataframe based on a vector of coordinates.
+def board_output(vector):
+    brd = np.zeros((8, 8))
+    for tup in vector:
+        brd[tup] += 1
+
+    return pd.DataFrame(brd)
 
 def getChessboard(dimensions: int = 500, margin: int = 50):
     row = [0, 1] * 4
@@ -61,6 +69,7 @@ def getHeatmap(dataframe: pd.DataFrame):
         marker_sizemode="area",
         marker_opacity=1,
         marker_color="#c12917",
+        # TODO
         hovertemplate="Test: %{y} - %{x}<br>number: 1<extra></extra>",
     )
     return heatmap

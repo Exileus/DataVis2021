@@ -44,11 +44,11 @@ df = pd.read_csv("/Users/rupeshbaradi/DataVis2021/DataVis2021/Project 2/Dataset/
 def board_output(vector):
 
 
-brd = np.zeros((8, 8))
+    brd = np.zeros((8, 8))
 
-for tup in vector:
+    for tup in vector:
 
-brd[tup] += 1
+        brd[tup] += 1
 
 
 return pd.DataFrame(brd)
@@ -263,32 +263,32 @@ app.layout = html.Div([logo,
 def toggle_navbar_collapse(n, is_open):
 
 
-if n:
+    if n:
 
-return not is_open
+        return not is_open
 
-return is_open
+    return is_open
 
 
 # the same function (toggle_navbar_collapse) is used in all three callbacks
 
 for i in [1, 2, 3]:
 
-app.callback(
+    app.callback(
 
-    Output(f"navbar-collapse{i}", "is_open"),
+        Output(f"navbar-collapse{i}", "is_open"),
 
-    [Input(f"navbar-toggler{i}", "n_clicks")],
+        [Input(f"navbar-toggler{i}", "n_clicks")],
 
-    [State(f"navbar-collapse{i}", "is_open")],
+        [State(f"navbar-collapse{i}", "is_open")],
 
-)(toggle_navbar_collapse)
+    )(toggle_navbar_collapse)
 
 # Statring the dash app
 
 if __name__ == '__main__':
 
-app.run_server(debug=True, port=8050)
+    app.run_server(debug=True, port=8050)
 
 
 ''' 
