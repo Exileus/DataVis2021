@@ -25,16 +25,44 @@ from layout.styles import *
 df_original = pd.read_csv(
     "chess_app.csv",
     dtype={"pawns": int, "knights": int, "bishops": int, "rooks": int, "queens": int},
-    converters={"wKing_sqr": ast.literal_eval, "bKing_sqr": ast.literal_eval},
+    converters={"wKing_sqr": ast.literal_eval, "bKing_sqr": ast.literal_eval,
+                "wQueen_sqr": ast.literal_eval, "bQueen_sqr": ast.literal_eval,
+                "wRook_sqr": ast.literal_eval, "bRook_sqr": ast.literal_eval,
+                "wRook2_sqr": ast.literal_eval, "bRook2_sqr": ast.literal_eval,
+                "wBishop_sqr": ast.literal_eval, "bBishop_sqr": ast.literal_eval,
+                "wBishop2_sqr": ast.literal_eval, "bBishop2_sqr": ast.literal_eval,
+                "wKnight_sqr": ast.literal_eval, "bKnight_sqr": ast.literal_eval,
+                "wKnight2_sqr": ast.literal_eval, "bKnight2_sqr": ast.literal_eval}
 )
 
-# Define function to output an 8*8 dataframe based on a vector of coordinates.
-def board_output(vector):
+# Define function to output an 8*8 dataframe based on a df and a list of column names to parse.
+def board_output(df,col_list):
     brd = np.zeros((8, 8))
-    for tup in vector:
-        brd[tup] += 1
+    
+    for col_name in col_list:
+        for tup in df[col_name]:
+            if tup == (None,None):
+                pass
+            else:
+                brd[tup] += 1
 
     return pd.DataFrame(brd)
+
+
+# Define global variables for later.
+g_color = "white_color"
+g_piece = "King"
+
+#Define a dictionary to be used to update the board with the correct columns.
+color_piece_dict = cp_dict = {
+    ("white_color","King"):["wKing_sqr"], ("black_color","King"): ["bKing_sqr"],
+    ("white_color","Queen"):["wQueen_sqr"], ("black_color","Queen"): ["bQueen_sqr"],
+    ("white_color","Rook"):["wRook_sqr","wRook2_sqr"], ("black_color","Rook"): ["bRook_sqr","bRook2_sqr"],
+    ("white_color","Bishop"):["wBishop_sqr","wBishop2_sqr"], ("black_color","Bishop"): ["bBishop_sqr","bBishop2_sqr"],
+    ("white_color","Knight"):["wKnight_sqr","wKnight2_sqr"], ("black_color","Knight"): ["bKnight_sqr","bKnight2_sqr"]
+    }
+
+
 
 # Set stylesheets and app.
 external_stylesheets = [dbc.themes.BOOTSTRAP]#["https://codepen.io/chriddyp/pen/bWLwgP.css"]
@@ -49,8 +77,6 @@ app.title = "Chess Analytics"
 # every page has 12 columns. 
 # width defines columns for each component.
 
-
-
 # Defining app layout
 # A simple app for simple purposes.
 app.layout = html.Div([
@@ -63,8 +89,8 @@ app.layout = html.Div([
     dbc.Row([dbc.Col(html.H3("The input over there is for choice of color ->"),
                      width={'size':4,'offset':0}
                      ),
-             dbc.Col(dbc.ButtonGroup([dbc.Button("White",color="Light",n_clicks=0,id="white_color"),
-                                      dbc.Button("Black",color="Dark",n_clicks=0,id="black_color")
+             dbc.Col(dbc.ButtonGroup([dbc.Button("White",color="Secondary",n_clicks=0,id="white_color"),
+                                      dbc.Button("Black",color="Secondary",n_clicks=0,id="black_color")
                                       ])
                      )
              ]),
@@ -82,6 +108,14 @@ app.layout = html.Div([
                      width={'size':10,'offset':1}
                      )
         ]),
+    dbc.Row([dbc.Col(dbc.ButtonGroup([dbc.Button("King",color="Secondary",n_clicks=0,id="King"),
+                                      dbc.Button("Queen",color="Secondary",n_clicks=0,id="Queen"),
+                                      dbc.Button("Rook",color="Secondary",n_clicks=0,id="Rook"),
+                                      dbc.Button("Bishop",color="Secondary",n_clicks=0,id="Bishop"),
+                                      dbc.Button("Knight",color="Secondary",n_clicks=0,id="Knight")
+                                      ])
+                     )
+        ]),
     dbc.Row([dbc.Col(dcc.Graph(id="chessboard"),
                      width={'size':"Auto"})
         ]),
@@ -97,11 +131,16 @@ app.layout = html.Div([
     Output("game_count","children"),
     Input('white_color','n_clicks'),
     Input('black_color','n_clicks'),
+    Input('King','n_clicks'),
+    Input('Queen','n_clicks'),
+    Input('Rook','n_clicks'),
+    Input('Bishop','n_clicks'),
+    Input('Knight','n_clicks'),
     Input('min_elo','value'),
     Input('max_elo','value'),
     Input("moves_slider",'value')
     )
-def update_chessboard(white_color,black_color,min_elo,max_elo,move_range):
+def update_chessboard(white_color,black_color,King,Queen,Rook,Bishop,Knight,min_elo,max_elo,move_range):
     
     # Filters go here.
     if int(max_elo) <= int(min_elo):
@@ -118,10 +157,16 @@ def update_chessboard(white_color,black_color,min_elo,max_elo,move_range):
     game_count = dff.shape[0]
     
     # Then retrieve the column of interest.
-    if 'black_color' in dash.callback_context.triggered[0]['prop_id']:
-        df = board_output(dff["bKing_sqr"])
-    else:
-        df = board_output(dff["wKing_sqr"])
+    global g_color 
+    global g_piece
+    
+    trigger_button = dash.callback_context.triggered[0]['prop_id'].split('.')[0]
+    if trigger_button in ["white_color","black_color"]:
+        g_color = trigger_button
+    if trigger_button in ["King","Queen","Rook","Bishop","Knight"]:
+        g_piece = trigger_button
+    
+    df = board_output(dff,cp_dict[g_color,g_piece])
 
     
     #Transform it for the heatmap.
