@@ -22,3 +22,5 @@ dataset/
 project_2/__pycache__/
 
 project_2/chess_app.csv
+
+project_2/layout/__pycache__/

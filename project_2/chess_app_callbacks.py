@@ -19,7 +19,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objs as go
 from chessboard import getChessboard, getHeatmap
-from styles import *
+from layout.styles import *
 
 # Read the .csv file with the preprocessed data.
 df_original = pd.read_csv(
@@ -104,6 +104,10 @@ app.layout = html.Div([
 def update_chessboard(white_color,black_color,min_elo,max_elo,move_range):
     
     # Filters go here.
+    if int(max_elo) <= int(min_elo):
+        print(f"{max_elo = } <= {min_elo = }")
+        raise dash.exceptions.PreventUpdate
+    
     dff = df_original[(df_original["avg_Elo"]>=int(min_elo)) &
                       (df_original["avg_Elo"]<=int(max_elo)) &
                       (df_original["moves"]>=int(move_range[0])) &
@@ -124,8 +128,8 @@ def update_chessboard(white_color,black_color,min_elo,max_elo,move_range):
     x_coords = ["A", "B", "C", "D", "E", "F", "G", "H"]
     replacer = {i+1: x for i, x in enumerate(x_coords)}
     df = df.stack().reset_index().rename(columns={"level_0":"rows","level_1":"cols",0:"freq"})
-    df.iloc[:,0:2] = df.iloc[:,0:2].apply(lambda x:x+1)
-    df["letters"] = df.cols.replace(replacer)
+    # df.iloc[:,0:2] = df.iloc[:,0:2].apply(lambda x:x+1)
+    # df["letters"] = df.cols.replace(replacer)
     chessboard = getChessboard()
     chessboard.add_trace(getHeatmap(dataframe=df))
     
